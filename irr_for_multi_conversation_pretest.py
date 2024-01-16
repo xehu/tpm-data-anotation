@@ -45,7 +45,8 @@ Convert the ratings (Agree/Neutral/Disagree) to ints.
 @param ratings: the ratings to convert
 """
 def convert_ratings_to_int(ratings):
-    conversion_dict = {'Agree': 0, 'Neutral': 1, 'Disagree': 2}
+    conversion_dict = {'Agree': 0, 'Neutral': 1, 'Disagree': 2, '': 1}
+    # Note: we are going to treat blank labels as 'Neutral'
     converted_ratings = [[conversion_dict[item] for item in sublist] for sublist in ratings]
 
     return converted_ratings
@@ -82,7 +83,7 @@ if __name__ == "__main__":
 	}
 
 	# Get data from sheets
-	list_of_spreadsheets = ["Emily's copy of Data Labeling Task January 2024", "Copy of Emily's copy of Data Labeling Task January 2024"]
+	list_of_spreadsheets = ["Emily's copy of Data Labeling Task January 2024", "Data Labeling Task January 2024 - Amy"]
 
 	# get directness and OI ratings
 	directness_ratings = get_ratings_for_range([conv_1["directness"], conv_2["directness"], conv_3["directness"]], [0, 1, 2])
