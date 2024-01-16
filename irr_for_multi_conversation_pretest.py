@@ -83,6 +83,8 @@ if __name__ == "__main__":
 	}
 
 	# Get data from sheets
+	# TODO --- right now, this calculates FK across ALL raters in list_of_spreadsheets
+	# If we want to compare each student to the 'gold' (pairwise), we'd modify the logic accordingly
 	list_of_spreadsheets = ["Emily's copy of Data Labeling Task January 2024", "Data Labeling Task January 2024 - Amy"]
 
 	# get directness and OI ratings
