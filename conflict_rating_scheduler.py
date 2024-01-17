@@ -24,7 +24,8 @@ as well as the latest ratings.
 Here's what each column in the conversation log should contain:
 - CONV_ID: the id associated with the conversation
 - id: the id associated with each message/chat
-- rating: the rating assigned by the rater
+- rating_directness: the rating for directness assigned by the rater
+- rating_OI: the rating for directness assigned by the rater
 - rater_id: the userid of the rater
 - status: {allocated, done}
 - last_updated_time: time associated with the last update / check to this log item
@@ -45,6 +46,13 @@ RATING_DICTIONARY = {
 # Constants for where directness and oppositional intensity are rated
 DIRECTNESS_COL = "C"
 OI_COL = "D"
+
+# Define a constant, but random, ordering for the conversations
+random.seed(19104)
+CONVERSATION_IDS = list(set(CONVERSATIONS["CONV_ID"]))
+CONVERSATION_IDS.sort()
+random.shuffle(CONVERSATION_IDS)
+print(CONVERSATION_IDS)
 
 """
 function: update_log_allocated
@@ -111,14 +119,10 @@ def write_sample_to_sheet(sample_to_label, rater_id):
 
 def get_n_convos_to_rate(conversations_for_rater, n_convos, rater_id):
 	# Identify conversations that have already been labeled
-	already_labeled_ids = list(conversations_for_rater["CONV_ID"])
-	df_to_label = CONVERSATIONS[~CONVERSATIONS["CONV_ID"].isin(already_labeled_ids)]
-
-	# get the first n conversation id's to label
-	# TODO -- is this reproducible across different people? that is, is the first 10 the same when I push it 
-	# to rater A as when I push it to rater B? I should be able to reproduce which batches I get (i.e., deterministic, not stochastic.)
-	n_convo_ids = list(set(df_to_label["CONV_ID"]))[:n_convos]
-	sample_to_label = df_to_label[df_to_label["CONV_ID"].isin(n_convo_ids)]
+	already_labeled_ids = set(conversations_for_rater["CONV_ID"])
+	df_to_label = [conversation_id for conversation_id in CONVERSATION_IDS if conversation_id not in already_labeled_ids]
+	n_convo_ids = df_to_label[:n_convos]
+	sample_to_label = CONVERSATIONS[CONVERSATIONS["CONV_ID"].isin(n_convo_ids)]
 
 	return(sample_to_label)
 
