@@ -4,8 +4,8 @@ This is a repository that uses gspread (https://docs.gspread.org/en/latest/) to 
 ## The Conflict Rating Scheduler
 One tool implemented in this repository is an automated process for allocating conversations to be rated for directness and oppositional intensity (as part of the conflict project). The process for rating the conflict conversations works as follows:
 
-### Step 1: Random Selection of Conversations
-[https://github.com/xehu/tpm-data-anotation/blob/main/conflict_reddit_data/convokit_data_downloader.ipynb](The ConvoKit Data Downloader Notebook) downloads a random sample of 100 conversations into the [https://github.com/xehu/tpm-data-anotation/tree/main/conflict_reddit_data/samples](samples) folder.
+### Step 1: Random Selection of Conversations 
+[https://github.com/xehu/tpm-data-anotation/blob/main/conflict_reddit_data/convokit_data_downloader.ipynb] (The ConvoKit Data Downloader Notebook) downloads a random sample of 100 conversations into the [https://github.com/xehu/tpm-data-anotation/tree/main/conflict_reddit_data/samples](samples) folder.
 
 ### Step 2: Using the Scheduler
 The role of the scheduler is to manage the process by which the sample of conversations is distributed to RA's for rating. It assigns raters samples of conversations and pushes them to a personal spreadsheet link. Once raters do their ratings (in their own spreadsheet links), it checks each link for the ratings and updates a central log, which tracks the progress of ratings.
@@ -63,4 +63,4 @@ Note that, since each message ID is rated one by one, it needs to be checked one
 ## An automated process for inter-rater reliability
 Another tool built into this repository is the ability to calculate inter-rater reliability across multiple duplicate copies of a spreadsheet. That is, if rater are using spreadsheets with identical set-ups, the tool can check whether raters have put the same rating in the same corresponding cell --- and quantify their level of agreement.
 
-Currently, [https://github.com/xehu/tpm-data-anotation/blob/main/irr_for_multi_conversation_pretest.py](the `irrr_for_multi_conversation_pretest` script) is designed to calculate the Fleiss's Kappa inter-rater reliability metric for RA candidates completing the three-conversation rating task. The logic/code from this file can be easily adapted to other rating contexts, assuming that each rater has a duplicate of the same spreadsheet (that is, the scheduler assigns spreadsheets consistently to all raters).
+Currently, [https://github.com/xehu/tpm-data-anotation/blob/main/irr_for_multi_conversation_pretest.py] (the `irrr_for_multi_conversation_pretest` script) is designed to calculate the Fleiss's Kappa inter-rater reliability metric for RA candidates completing the three-conversation rating task. The logic/code from this file can be easily adapted to other rating contexts, assuming that each rater has a duplicate of the same spreadsheet (that is, the scheduler assigns spreadsheets consistently to all raters).
