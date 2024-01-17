@@ -169,11 +169,14 @@ def update(rater_id):
 		# check whether they were rated or not
 		if(rating_directness is not None):
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_directness'] = rating_directness
+			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
 		if (rating_OI is not None):
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_OI'] = rating_OI
+			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
 		# if ratings are complete, mark status as "done"
 		if(rating_directness is not None and rating_OI is not None):
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'status'] = "done"
+			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
 		
 		time.sleep(3) # sleeping due to API quota limits (for now)
 		
