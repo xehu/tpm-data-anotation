@@ -50,7 +50,7 @@ If the user tries to call the scheduler multiple times without finishing their e
 Rating sheet for xehu contains unlabeled conversations. Please either complete ratings or update the log.
 ```
 
-### Updating the Log / Checking Ratings
+#### Updating the Log / Checking Ratings
 The syntax for updating the log and checking a rater's rating spreadsheet is as follows:
 ```
 python3 conflict_rating_scheduler.py --update [rater_id]
