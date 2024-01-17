@@ -115,6 +115,8 @@ def get_n_convos_to_rate(conversations_for_rater, n_convos, rater_id):
 	df_to_label = CONVERSATIONS[~CONVERSATIONS["CONV_ID"].isin(already_labeled_ids)]
 
 	# get the first n conversation id's to label
+	# TODO -- is this reproducible across different people? that is, is the first 10 the same when I push it 
+	# to rater A as when I push it to rater B? I should be able to reproduce which batches I get (i.e., deterministic, not stochastic.)
 	n_convo_ids = list(set(df_to_label["CONV_ID"]))[:n_convos]
 	sample_to_label = df_to_label[df_to_label["CONV_ID"].isin(n_convo_ids)]
 
