@@ -41,8 +41,10 @@ The syntax for scheduling a number of conversations for a rater is as follows:
 python3 conflict_rating_scheduler.py --schedule [rater_id] [num_convs]
 ```
 When this is called, `[num_convs]` new conversations will be added to the next available lines in the user's personal spreadsheet, alongside drop-downs for rating:
+
 <img width="1192" alt="Screenshot 2024-01-16 at 10 53 07 PM" src="https://github.com/xehu/tpm-data-anotation/assets/28793641/8e257e1a-3167-424b-a759-0de92d012b7d">
 Additionally, the relevant ID's will be added to the log, which tracks when and to whom the messages were assigned.
+
 <img width="604" alt="Screenshot 2024-01-16 at 10 54 21 PM" src="https://github.com/xehu/tpm-data-anotation/assets/28793641/eb980206-fad6-4607-8fd3-776c2510ee64">
 
 If the user tries to call the scheduler multiple times without finishing their existing allocation, they get an error message:
@@ -56,6 +58,7 @@ The syntax for updating the log and checking a rater's rating spreadsheet is as 
 python3 conflict_rating_scheduler.py --update [rater_id]
 ```
 This will check each message ID for whether it is rated or not, and update the central log accordingly:
+
 <img width="620" alt="Screenshot 2024-01-16 at 10 57 18 PM" src="https://github.com/xehu/tpm-data-anotation/assets/28793641/b94b56c7-035c-4714-b604-bf1cc00e8bc5">
 
 Note that, since each message ID is rated one by one, it needs to be checked one by one. Due to API usage limits, this process is a bit slow for now.
