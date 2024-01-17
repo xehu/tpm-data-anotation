@@ -43,6 +43,7 @@ python3 conflict_rating_scheduler.py --schedule [rater_id] [num_convs]
 When this is called, `[num_convs]` new conversations will be added to the next available lines in the user's personal spreadsheet, alongside drop-downs for rating:
 
 <img width="1192" alt="Screenshot 2024-01-16 at 10 53 07 PM" src="https://github.com/xehu/tpm-data-anotation/assets/28793641/8e257e1a-3167-424b-a759-0de92d012b7d">
+
 Additionally, the relevant ID's will be added to the log, which tracks when and to whom the messages were assigned.
 
 <img width="604" alt="Screenshot 2024-01-16 at 10 54 21 PM" src="https://github.com/xehu/tpm-data-anotation/assets/28793641/eb980206-fad6-4607-8fd3-776c2510ee64">
