@@ -1,21 +1,32 @@
 # tpm-data-anotation
 This is a repository that uses gspread (https://docs.gspread.org/en/latest/) to manage the Google Sheets-based data annotation for the Team Process Mapping project.
 
-### Setting up authentication for `gspread`
-We follow the instructions in "For End Users: Using OAuth Client ID"
-This is the case where your application or a script is accessing spreadsheets on behalf of an end user. When you use this scenario, your application or a script will ask the end user (or yourself if you’re running it) to grant access to the user’s data.
+### Setting up authentication for `gspread` using a service account
+A service account is a special type of Google account intended to represent a non-human user that needs to authenticate and be authorized to access data in Google APIs [sic].
 
-1. Enable API Access for a Project if you haven’t done it yet.
-2. Go to “APIs & Services > OAuth Consent Screen.” Click the button for “Configure Consent Screen”.
-3. In the “1 OAuth consent screen” tab, give your app a name and fill the “User support email” and “Developer contact information”. Click “SAVE AND CONTINUE”.
-4. There is no need to fill in anything in the tab “2 Scopes”, just click “SAVE AND CONTINUE”.
-5. In the tab “3 Test users”, add the Google account email of the end user, typically your own Google email. Click “SAVE AND CONTINUE”.
-6. Double check the “4 Summary” presented and click “BACK TO DASHBOARD”.
-7. Go to “APIs & Services > Credentials”
-8. Click “+ Create credentials” at the top, then select “OAuth client ID”.
-9. Select “Desktop app”, name the credentials and click “Create”. Click “Ok” in the “OAuth client created” popup.
-10. Download the credentials by clicking the Download JSON button in “OAuth 2.0 Client IDs” section.
-11. Move the downloaded file to ~/.config/gspread/credentials.json. Windows users should put this file to %APPDATA%\gspread\credentials.json.
+Since it’s a separate account, by default it does not have access to any spreadsheet until you share it with this account. Just like any other Google account.
+
+Here’s how to get one:
+
+Enable API Access for a Project if you haven’t done it yet.
+Go to “APIs & Services > Credentials” and choose “Create credentials > Service account key”.
+Fill out the form
+Click “Create” and “Done”.
+Press “Manage service accounts” above Service Accounts.
+Press on ⋮ near recently created service account and select “Manage keys” and then click on “ADD KEY > Create new key”.
+Select JSON key type and press “Create”.
+You will automatically download a JSON file with credentials. It may look like this:
+
+{
+    "type": "service_account",
+    "project_id": "api-project-XXX",
+    "private_key_id": "2cd … ba4",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nNrDyLw … jINQh/9\n-----END PRIVATE KEY-----\n",
+    "client_email": "473000000000-yoursisdifferent@developer.gserviceaccount.com",
+    "client_id": "473 … hd.apps.googleusercontent.com",
+    ...
+}
+Remember the path to the downloaded credentials file. (NOTE: in the case of TPM, we gitignore it, so it's not pushed to git! Contact Emily for details on this key). Also, in the next step you’ll need the value of client_email from this file.
 
 ## The Conflict Rating Scheduler
 One tool implemented in this repository is an automated process for allocating conversations to be rated for directness and oppositional intensity (as part of the conflict project). The process for rating the conflict conversations works as follows:
