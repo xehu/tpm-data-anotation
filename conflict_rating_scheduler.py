@@ -8,8 +8,8 @@ import time
 from gspread_formatting import *
 
 # Authenticating with Google Sheeets
-# Note that authentication is saved locally, at ~/.config/gspread/credentials.json
-gc = gspread.oauth()
+# Service Email: tpm-data-annotation@tpm-data-annotation.iam.gserviceaccount.com
+gc = gspread.service_account(filename='./tpm-data-annotation-aae74b403ab4.json')
 
 # Read in the conversation samples
 AWRY_SAMPLES = pd.read_csv('./conflict_reddit_data/samples/awry_samples.csv')
@@ -52,7 +52,6 @@ random.seed(19104)
 CONVERSATION_IDS = list(set(CONVERSATIONS["CONV_ID"]))
 CONVERSATION_IDS.sort()
 random.shuffle(CONVERSATION_IDS)
-print(CONVERSATION_IDS)
 
 """
 function: update_log_allocated
@@ -181,9 +180,9 @@ def update(rater_id):
 		if(rating_directness is not None and rating_OI is not None):
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'status'] = "done"
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
-		
+
 		time.sleep(3) # sleeping due to API quota limits (for now)
-		
+
 		if(i > 0 and i % 10 == 0):
 			print(str(i) + " requests completed...")
 

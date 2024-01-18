@@ -2,10 +2,13 @@ import gspread
 from sklearn.metrics import cohen_kappa_score
 from statsmodels.stats.inter_rater import fleiss_kappa, aggregate_raters
 import numpy as np
+import json
 
 # Authenticate with Google Sheets
-# Note that authentication is saved locally, at ~/.config/gspread/credentials.json
-gc = gspread.oauth()
+gc = gspread.service_account(filename='./tpm-data-annotation-aae74b403ab4.json')
+
+# NOTE: email is: tpm-data-annotation@tpm-data-annotation.iam.gserviceaccount.com
+# Everything needs to be shared with this email address!
 
 """
 function: get_ratings_for_range()
