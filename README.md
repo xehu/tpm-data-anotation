@@ -17,6 +17,7 @@ Press on ⋮ near recently created service account and select “Manage keys” 
 Select JSON key type and press “Create”.
 You will automatically download a JSON file with credentials. It may look like this:
 
+```
 {
     "type": "service_account",
     "project_id": "api-project-XXX",
@@ -26,6 +27,8 @@ You will automatically download a JSON file with credentials. It may look like t
     "client_id": "473 … hd.apps.googleusercontent.com",
     ...
 }
+```
+
 Remember the path to the downloaded credentials file. (NOTE: in the case of TPM, we gitignore it, so it's not pushed to git! Contact Emily for details on this key). Also, in the next step you’ll need the value of client_email from this file.
 
 ## The Conflict Rating Scheduler
