@@ -44,8 +44,8 @@ RATING_DICTIONARY = {
 }
 
 # Constants for where directness and oppositional intensity are rated
-DIRECTNESS_COL = "C"
-OI_COL = "D"
+DIRECTNESS_COL = "D"
+OI_COL = "E"
 
 # Define a constant, but random, ordering for the conversations
 random.seed(19104)
@@ -92,19 +92,23 @@ def write_sample_to_sheet(sample_to_label, rater_id):
 	sh = gc.open_by_url(rater_sheet).sheet1
 
 	available_row = next_available_row(sh) # Figure out the next open line
-	update_range_id = sh.range("A{}:A{}".format(available_row, available_row + len(sample_to_label)))
-	update_range_text = sh.range("B{}:B{}".format(available_row, available_row + len(sample_to_label)))
+	update_range_CONV_ID = sh.range("A{}:A{}".format(available_row, available_row + len(sample_to_label)))
+	update_range_id = sh.range("B{}:B{}".format(available_row, available_row + len(sample_to_label)))
+	update_range_text = sh.range("C{}:C{}".format(available_row, available_row + len(sample_to_label)))
 	
 	# Convert values to strings if needed
+	CONV_IDS_to_udpate = [str(value) for value in list(sample_to_label["CONV_ID"])]
 	ids_to_udpate = [str(value) for value in list(sample_to_label["id"])]
 	values_to_update = [str(value) for value in list(sample_to_label["text"])]
 
 	# Update the values in the range
 	for i in range(len(values_to_update)):
+		update_range_CONV_ID[i].value = CONV_IDS_to_udpate[i]
 		update_range_id[i].value = ids_to_udpate[i]
 		update_range_text[i].value = values_to_update[i]
 
 	# Batch update the range
+	sh.update_cells(update_range_CONV_ID)
 	sh.update_cells(update_range_id)
 	sh.update_cells(update_range_text)
 	
