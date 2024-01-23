@@ -2,6 +2,8 @@ import gspread
 from sklearn.metrics import cohen_kappa_score
 from statsmodels.stats.inter_rater import fleiss_kappa, aggregate_raters
 import numpy as np
+import pprint
+import time
 import json
 
 # Authenticate with Google Sheets
@@ -16,18 +18,18 @@ function: get_ratings_for_range()
 @param cell_range: The range of cells for which we want to get the
 ratings across all the spreadsheets
 """
-def get_ratings_for_range(cell_ranges, sheet_indices):
+def get_ratings_for_range(cell_ranges, sheet_indices, list_of_spreadsheet_links):
 	# There should be 1 cell range specified per sheet!
 	assert(len(cell_ranges) == len(sheet_indices))
 
 	ratings = []
 	
-	for spreadsheet in list_of_spreadsheets:
+	for spreadsheet in list_of_spreadsheet_links:
 
 		# These are the different conversations; each one has a sheet index
 		conversations = []
 		for index in sheet_indices:
-			conversations.append(gc.open(spreadsheet).get_worksheet(index))
+			conversations.append(gc.open_by_url(spreadsheet).get_worksheet(index))
 
 		values = []
 		
@@ -86,19 +88,75 @@ if __name__ == "__main__":
 	}
 
 	# Get data from sheets
-	# TODO --- right now, this calculates FK across ALL raters in list_of_spreadsheets
-	# If we want to compare each student to the 'gold' (pairwise), we'd modify the logic accordingly
-	list_of_spreadsheets = ["Emily's copy of Data Labeling Task January 2024", "Data Labeling Task January 2024 - Amy"]
+	EMILY_PRIYA_DICT = {
+		"emily": "https://docs.google.com/spreadsheets/d/1-Q6i75z86t7zFAGM_YCJxlMNLgQ9rU1dqPV7IM3gQHQ/edit#gid=2046213595",
+		"priya": "https://docs.google.com/spreadsheets/d/13Gcg-HCyptuEp0uNIfxPb61MoE62MNBRE9UmfLbV3tU/edit#gid=0"
+	}
+	
+	SUBMISSION_DICT = {"emma": "https://docs.google.com/spreadsheets/d/1Ko5zx1QnhXjozc_fFYizcITGFR0250ICM_MOujo1GXY/edit#gid=1662486063",
+	"ebunoluwa": "https://docs.google.com/spreadsheets/d/1H4OLRZeBOYTSO1SJQwtc4D3SHutcJqkZ-aR-3dsBJSM/edit#gid=2046213595",
+	"pradnaya": "https://docs.google.com/spreadsheets/d/1yC9W0Ig4PQmh3lw-XI9UBuVuI-RzK-x_SC3bzNLXh3o/edit#gid=2046213595",
+	"helena": "https://docs.google.com/spreadsheets/d/1VFZWHfCTMVzKBv8IjUAbTbaZ32udjCgdRTmVXIiH5lI/edit#gid=2046213595",
+	"amy": "https://docs.google.com/spreadsheets/d/1DoUBDuAyuaGuZ35OoJK6gD_TFv7ZhFF-D1z4he3MYTE/edit#gid=0",
+	"cindy": "https://docs.google.com/spreadsheets/d/1a0uf0YSKou_wjXLyHQW3klI7UxCVWN_sbxrkbAzC-d4/edit#gid=2046213595"
+	}
 
-	# get directness and OI ratings
-	directness_ratings = get_ratings_for_range([conv_1["directness"], conv_2["directness"], conv_3["directness"]], [0, 1, 2])
-	directness_fleiss_cc = convert_ratings_to_fleiss_category_counts(directness_ratings)
+	RESULTS_DICT = {"pradnaya": {},
+	"helena": {},
+	"amy": {},
+	"cindy": {},
+	"emma": {},
+	"ebunoluwa": {}
+	}
 
-	OI_ratings = get_ratings_for_range([conv_1["OI"], conv_2["OI"], conv_3["OI"]], [0, 1, 2])
-	OI_ratings_fleiss_cc = convert_ratings_to_fleiss_category_counts(OI_ratings)
+	# first get the baseline; agreement between emily and priya
+	emily_priya_directness = get_ratings_for_range([conv_1["directness"], conv_2["directness"], conv_3["directness"]], [0, 1, 2], EMILY_PRIYA_DICT.values())
+	emily_priya_directness_fk = fleiss_kappa(convert_ratings_to_fleiss_category_counts(emily_priya_directness))
+
+	emily_priya_OI = get_ratings_for_range([conv_1["OI"], conv_2["OI"], conv_3["OI"]], [0, 1, 2], EMILY_PRIYA_DICT.values())
+	emily_priya_OI_fk = fleiss_kappa(convert_ratings_to_fleiss_category_counts(emily_priya_OI))
 
 	# Get IRR for ratings (Fleiss' Kappa)
-	print("Fleiss' Kappa for Directness")
-	print(fleiss_kappa(directness_fleiss_cc))
-	print("Fleiss' Kappa for Oppositional Intensity")
-	print(fleiss_kappa(OI_ratings_fleiss_cc))
+	print("Emily and Priya's Agreement: Fleiss' Kappa for Directness")
+	print(emily_priya_directness_fk)
+	print("Emily and Priya's Agreement; Fleiss' Kappa for Oppositional Intensity")
+	print(emily_priya_OI_fk)
+
+
+	# for each candidate...
+	for student in SUBMISSION_DICT.keys():
+		student_sheet = SUBMISSION_DICT[student]
+
+		# compare to Emily
+		student_and_emily = [student_sheet, EMILY_PRIYA_DICT["emily"]]
+		emily_student_directness = get_ratings_for_range([conv_1["directness"], conv_2["directness"], conv_3["directness"]], [0, 1, 2], student_and_emily)
+		emily_student_directness_fk = fleiss_kappa(convert_ratings_to_fleiss_category_counts(emily_student_directness))
+
+		emily_student_OI = get_ratings_for_range([conv_1["OI"], conv_2["OI"], conv_3["OI"]], [0, 1, 2], student_and_emily)
+		emily_student_OI_fk = fleiss_kappa( convert_ratings_to_fleiss_category_counts(emily_student_OI))
+
+		# compare to Priya
+		student_and_priya = [student_sheet, EMILY_PRIYA_DICT["emily"]]
+
+		student_priya_directness = get_ratings_for_range([conv_1["directness"], conv_2["directness"], conv_3["directness"]], [0, 1, 2], student_and_priya)
+		student_priya_directness_fk = fleiss_kappa(convert_ratings_to_fleiss_category_counts(student_priya_directness))
+
+		student_priya_OI = get_ratings_for_range([conv_1["OI"], conv_2["OI"], conv_3["OI"]], [0, 1, 2], student_and_priya)
+		student_priya_OI_fk = fleiss_kappa( convert_ratings_to_fleiss_category_counts(student_priya_OI))
+
+		# take the max
+		directness_fk = max(emily_student_directness_fk, student_priya_directness_fk)
+		OI_fk = max(emily_student_OI_fk, student_priya_OI_fk)
+
+		RESULTS_DICT[student]["Directness"] = directness_fk
+		RESULTS_DICT[student]["OI"] = OI_fk
+
+		print("Results for student: " + student)
+		print("Directness:")
+		print(directness_fk)
+		print("Oppositional Intensity:")
+		print(OI_fk)
+		time.sleep(5)
+
+	print("Results for Students...")
+	pprint.pprint(RESULTS_DICT)
