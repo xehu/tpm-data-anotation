@@ -40,7 +40,8 @@ LABEL_LOG = pd.read_csv(CONVERSATION_LABELING_LOG_PATH)
 
 # Dictionary for Storing ID's and rating sheets of all raters
 RATING_DICTIONARY = {
-	"xehu": "https://docs.google.com/spreadsheets/d/1W4zLWTRaT6UIgb1WvTa8_Ca92O1Nqzqgl80it6l5miU/edit#gid=2046213595"
+	"xehu": "https://docs.google.com/spreadsheets/d/1W4zLWTRaT6UIgb1WvTa8_Ca92O1Nqzqgl80it6l5miU/edit#gid=2046213595",
+	"xehu2": "https://docs.google.com/spreadsheets/d/1zW0ShqhhmSwvgEqQ7il5f99TMSso3fTB_VwRDkvLy_w/edit#gid=2046213595"
 }
 
 # Constants for where directness and oppositional intensity are rated
