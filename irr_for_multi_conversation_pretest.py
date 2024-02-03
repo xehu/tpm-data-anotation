@@ -93,20 +93,14 @@ if __name__ == "__main__":
 		"priya": "https://docs.google.com/spreadsheets/d/13Gcg-HCyptuEp0uNIfxPb61MoE62MNBRE9UmfLbV3tU/edit#gid=0"
 	}
 	
-	SUBMISSION_DICT = {"emma": "https://docs.google.com/spreadsheets/d/1Ko5zx1QnhXjozc_fFYizcITGFR0250ICM_MOujo1GXY/edit#gid=1662486063",
-	"ebunoluwa": "https://docs.google.com/spreadsheets/d/1H4OLRZeBOYTSO1SJQwtc4D3SHutcJqkZ-aR-3dsBJSM/edit#gid=2046213595",
-	"pradnaya": "https://docs.google.com/spreadsheets/d/1yC9W0Ig4PQmh3lw-XI9UBuVuI-RzK-x_SC3bzNLXh3o/edit#gid=2046213595",
+	SUBMISSION_DICT = {
 	"helena": "https://docs.google.com/spreadsheets/d/1VFZWHfCTMVzKBv8IjUAbTbaZ32udjCgdRTmVXIiH5lI/edit#gid=2046213595",
 	"amy": "https://docs.google.com/spreadsheets/d/1DoUBDuAyuaGuZ35OoJK6gD_TFv7ZhFF-D1z4he3MYTE/edit#gid=0",
-	"cindy": "https://docs.google.com/spreadsheets/d/1a0uf0YSKou_wjXLyHQW3klI7UxCVWN_sbxrkbAzC-d4/edit#gid=2046213595"
 	}
 
-	RESULTS_DICT = {"pradnaya": {},
+	RESULTS_DICT = {
 	"helena": {},
 	"amy": {},
-	"cindy": {},
-	"emma": {},
-	"ebunoluwa": {}
 	}
 
 	# first get the baseline; agreement between emily and priya
