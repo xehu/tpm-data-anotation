@@ -24,8 +24,10 @@ as well as the latest ratings.
 Here's what each column in the conversation log should contain:
 - CONV_ID: the id associated with the conversation
 - id: the id associated with each message/chat
-- rating_directness: the rating for directness assigned by the rater
-- rating_OI: the rating for directness assigned by the rater
+- rating_directness_content: the rating for directness assigned by the rater (content)
+- rating_directness_expression: the rating for directness assigned by the rater (expression)
+- rating_OI_content: the rating for directness assigned by the rater (content)
+- rating_OI_expression: the rating for directness assigned by the rater (expression)
 - rater_id: the userid of the rater
 - status: {allocated, done}
 - last_updated_time: time associated with the last update / check to this log item
@@ -33,20 +35,24 @@ Here's what each column in the conversation log should contain:
 CONVERSATION_LABELING_LOG_PATH = './CONFLICT_CONVO_LABELING_LOG.csv'
 if(not os.path.isfile(CONVERSATION_LABELING_LOG_PATH)):
 	# define a simple CSV with just the headers
-	log_setup = pd.DataFrame(columns = ["CONV_ID", "id", "rating_directness", "rating_OI", "rater_id", "status", "last_updated_time"])
+	log_setup = pd.DataFrame(columns = ["CONV_ID", "id", "rating_directness_content", "rating_directness_expression", "rating_OI_content", "rating_OI_expression", "rater_id", "status", "last_updated_time"])
 	log_setup.to_csv(CONVERSATION_LABELING_LOG_PATH, index=False)
 
 LABEL_LOG = pd.read_csv(CONVERSATION_LABELING_LOG_PATH)
 
 # Dictionary for Storing ID's and rating sheets of all raters
 RATING_DICTIONARY = {
-	"xehu": "https://docs.google.com/spreadsheets/d/1W4zLWTRaT6UIgb1WvTa8_Ca92O1Nqzqgl80it6l5miU/edit#gid=2046213595",
-	"xehu2": "https://docs.google.com/spreadsheets/d/1zW0ShqhhmSwvgEqQ7il5f99TMSso3fTB_VwRDkvLy_w/edit#gid=2046213595"
+	"xehu": "https://docs.google.com/spreadsheets/d/1W4zLWTRaT6UIgb1WvTa8_Ca92O1Nqzqgl80it6l5miU",
+	"amy": "https://docs.google.com/spreadsheets/d/1CaAhmRurNLb9ZJmhy3WDtXq8OI3XviX5j8vp9o2FUrc",
+	"helena": "https://docs.google.com/spreadsheets/d/152eH8NoXwr2YL3T0pPoFN2oV08YIlCWmv2lqcN5ABg8",
+	"nikhil": "https://docs.google.com/spreadsheets/d/1F2Ha7BJJ3LcSBmuL4XaqrRwYqkB7a4RVcT_r-E4qvp4"
 }
 
 # Constants for where directness and oppositional intensity are rated
-DIRECTNESS_COL = "D"
-OI_COL = "E"
+DIRECTNESS_CONTENT_COL = "E"
+DIRECTNESS_EXPRESSION_COL = "F"
+OI_CONTENT_COL = "G"
+OI_EXPRESSION_COL = "H"
 
 # Define a constant, but random, ordering for the conversations
 random.seed(19104)
@@ -61,8 +67,10 @@ Update the rating log to indicate that a new conversation has been allocated.
 """
 def update_log_allocated(sample_to_label, rater_id):
 	static_data = {
-		"rating_directness": pd.Series(['None']).repeat(len(sample_to_label)),
-		"rating_OI": pd.Series(['None']).repeat(len(sample_to_label)),
+		"rating_directness_content": pd.Series(['-']).repeat(len(sample_to_label)),
+		"rating_directness_expression": pd.Series(['-']).repeat(len(sample_to_label)),
+		"rating_OI_content": pd.Series(['-']).repeat(len(sample_to_label)),
+		"rating_OI_expression": pd.Series(['-']).repeat(len(sample_to_label)),
 		"rater_id": pd.Series([rater_id]).repeat(len(sample_to_label)),
 		"status": pd.Series(['allocated']).repeat(len(sample_to_label)),
 		"last_updated_time": pd.Series([pd.Timestamp.now()]).repeat(len(sample_to_label))
@@ -72,7 +80,7 @@ def update_log_allocated(sample_to_label, rater_id):
 	new_data = pd.concat([sample_to_label_reset, static_data_reset], axis=1)
 	# Append the new data to the existing DataFrame
 	log_setup = pd.read_csv(CONVERSATION_LABELING_LOG_PATH)
-	updated_data = pd.concat([log_setup, new_data], ignore_index=True)
+	updated_data = new_data.copy() if log_setup.empty else pd.concat([log_setup, new_data], ignore_index=True)
 	updated_data.to_csv(CONVERSATION_LABELING_LOG_PATH, index=False)
 
 	# also update LABEL_LOG
@@ -95,30 +103,53 @@ def write_sample_to_sheet(sample_to_label, rater_id):
 	available_row = next_available_row(sh) # Figure out the next open line
 	update_range_CONV_ID = sh.range("A{}:A{}".format(available_row, available_row + len(sample_to_label)))
 	update_range_id = sh.range("B{}:B{}".format(available_row, available_row + len(sample_to_label)))
-	update_range_text = sh.range("C{}:C{}".format(available_row, available_row + len(sample_to_label)))
+	update_range_speaker = sh.range("C{}:C{}".format(available_row, available_row + len(sample_to_label)))
+	update_range_text = sh.range("D{}:D{}".format(available_row, available_row + len(sample_to_label)))
 	
 	# Convert values to strings if needed
 	CONV_IDS_to_udpate = [str(value) for value in list(sample_to_label["CONV_ID"])]
 	ids_to_udpate = [str(value) for value in list(sample_to_label["id"])]
-	values_to_update = [str(value) for value in list(sample_to_label["text"])]
+	speakers_to_udpate = [str(value) for value in list(sample_to_label["speaker"])]
+	text_values_to_update = [str(value) for value in list(sample_to_label["text"])]
 
 	# Update the values in the range
-	for i in range(len(values_to_update)):
+	for i in range(len(sample_to_label)):
 		update_range_CONV_ID[i].value = CONV_IDS_to_udpate[i]
 		update_range_id[i].value = ids_to_udpate[i]
-		update_range_text[i].value = values_to_update[i]
+		update_range_speaker[i].value = speakers_to_udpate[i]
+		update_range_text[i].value = text_values_to_update[i]
 
 	# Batch update the range
 	sh.update_cells(update_range_CONV_ID)
 	sh.update_cells(update_range_id)
+	sh.update_cells(update_range_speaker)
 	sh.update_cells(update_range_text)
 	
-	# Update the formatting in the next 2 columns (C and D) to be the multiple-choice label
-	validation_rule = DataValidationRule(
-	BooleanCondition('ONE_OF_LIST', ["Agree", "Neutral", "Disagree"]),
+	# Update the formatting for the next columns
+	validation_rule_directness_content = DataValidationRule(
+	BooleanCondition('ONE_OF_LIST', ["Yes - Direct Content", "Neutral - Content contains no opinion", "No - Indirect Content"]),
 		showCustomUi=True
 	)
-	set_data_validation_for_cell_range(sh, DIRECTNESS_COL + str(available_row) + ":" + OI_COL + str(available_row + len(sample_to_label)), validation_rule)
+	set_data_validation_for_cell_range(sh, DIRECTNESS_CONTENT_COL + str(available_row) + ":" + DIRECTNESS_CONTENT_COL + str(available_row + len(sample_to_label)), validation_rule_directness_content)
+
+	validation_rule_directness_expression = DataValidationRule(
+	BooleanCondition('ONE_OF_LIST', ["Yes - Direct Expression", "No - Indirect Expression"]),
+		showCustomUi=True
+	)
+	set_data_validation_for_cell_range(sh, DIRECTNESS_EXPRESSION_COL + str(available_row) + ":" + DIRECTNESS_EXPRESSION_COL + str(available_row + len(sample_to_label)), validation_rule_directness_expression)
+
+	validation_rule_OI_content = DataValidationRule(
+	BooleanCondition('ONE_OF_LIST', ["Yes - Content opposes someone else", "No - Content does not oppose anyone"]),
+		showCustomUi=True
+	)
+	set_data_validation_for_cell_range(sh, OI_CONTENT_COL + str(available_row) + ":" + OI_CONTENT_COL + str(available_row + len(sample_to_label)), validation_rule_OI_content)
+
+	validation_rule_OI_expression = DataValidationRule(
+	BooleanCondition('ONE_OF_LIST', ["Yes - Expression is emotional/forceful", "No - Expression is not emotional/forceful"]),
+		showCustomUi=True
+	)
+	set_data_validation_for_cell_range(sh, OI_EXPRESSION_COL + str(available_row) + ":" + OI_EXPRESSION_COL + str(available_row + len(sample_to_label)), validation_rule_OI_expression)
+
 
 
 def get_n_convos_to_rate(conversations_for_rater, n_convos, rater_id):
@@ -169,24 +200,34 @@ def update(rater_id):
 
 	for i, id_num in enumerate(message_ids):
 		cell = sh.find(id_num)
-		directness_cell = DIRECTNESS_COL + str(cell.row)
-		oi_cell = OI_COL + str(cell.row)
+		directness_content_cell = DIRECTNESS_CONTENT_COL + str(cell.row)
+		directness_expression_cell = DIRECTNESS_EXPRESSION_COL + str(cell.row)
+		oi_content_cell = OI_CONTENT_COL + str(cell.row)
+		oi_expression_cell = OI_EXPRESSION_COL + str(cell.row)
 
-		rating_directness = sh.acell(directness_cell).value
-		rating_OI = sh.acell(oi_cell).value
+		rating_directness_content = sh.acell(directness_content_cell).value
+		rating_directness_expression = sh.acell(directness_expression_cell).value
+		rating_OI_content = sh.acell(oi_content_cell).value
+		rating_OI_expression = sh.acell(oi_expression_cell).value
 		# check whether they were rated or not
-		if(rating_directness is not None):
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_directness'] = rating_directness
+		if(rating_directness_content is not None):
+			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_directness_content'] = rating_directness_content
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
-		if (rating_OI is not None):
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_OI'] = rating_OI
+		if(rating_directness_expression is not None):
+			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_directness_expression'] = rating_directness_expression
+			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
+		if(rating_OI_content is not None):
+			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_OI_content'] = rating_OI_content
+			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
+		if (rating_OI_expression is not None):
+			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_OI_expression'] = rating_OI_expression
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
 		# if ratings are complete, mark status as "done"
-		if(rating_directness is not None and rating_OI is not None):
+		if(rating_directness_content is not None and rating_directness_expression is not None and rating_OI_content is not None and rating_OI_expression is not None):
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'status'] = "done"
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
 
-		time.sleep(3) # sleeping due to API quota limits (for now)
+		# time.sleep(2) # sleeping due to API quota limits (for now)
 
 		if(i > 0 and i % 10 == 0):
 			print(str(i) + " requests completed...")
