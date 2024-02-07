@@ -6,6 +6,7 @@ import os
 import argparse
 import time
 from gspread_formatting import *
+from rating_dictionary import RATING_DICTIONARY
 
 # Authenticating with Google Sheeets
 # Service Email: tpm-data-annotation@tpm-data-annotation.iam.gserviceaccount.com
@@ -39,14 +40,6 @@ if(not os.path.isfile(CONVERSATION_LABELING_LOG_PATH)):
 	log_setup.to_csv(CONVERSATION_LABELING_LOG_PATH, index=False)
 
 LABEL_LOG = pd.read_csv(CONVERSATION_LABELING_LOG_PATH)
-
-# Dictionary for Storing ID's and rating sheets of all raters
-RATING_DICTIONARY = {
-	"xehu": "https://docs.google.com/spreadsheets/d/1W4zLWTRaT6UIgb1WvTa8_Ca92O1Nqzqgl80it6l5miU",
-	"amy": "https://docs.google.com/spreadsheets/d/1CaAhmRurNLb9ZJmhy3WDtXq8OI3XviX5j8vp9o2FUrc",
-	"helena": "https://docs.google.com/spreadsheets/d/152eH8NoXwr2YL3T0pPoFN2oV08YIlCWmv2lqcN5ABg8",
-	"nikhil": "https://docs.google.com/spreadsheets/d/1F2Ha7BJJ3LcSBmuL4XaqrRwYqkB7a4RVcT_r-E4qvp4"
-}
 
 # Constants for where directness and oppositional intensity are rated
 DIRECTNESS_CONTENT_COL = "E"
