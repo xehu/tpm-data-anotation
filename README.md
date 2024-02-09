@@ -97,4 +97,24 @@ Note that, since each message ID is rated one by one, it needs to be checked one
 ## An automated process for inter-rater reliability
 Another tool built into this repository is the ability to calculate inter-rater reliability across multiple duplicate copies of a spreadsheet. That is, if rater are using spreadsheets with identical set-ups, the tool can check whether raters have put the same rating in the same corresponding cell --- and quantify their level of agreement.
 
-Currently, [the `irrr_for_multi_conversation_pretest` script](https://github.com/xehu/tpm-data-anotation/blob/main/irr_for_multi_conversation_pretest.py) is designed to calculate the Fleiss's Kappa inter-rater reliability metric for RA candidates completing the three-conversation rating task. The logic/code from this file can be easily adapted to other rating contexts, assuming that each rater has a duplicate of the same spreadsheet (that is, the scheduler assigns spreadsheets consistently to all raters).
+### IRR / Agreement for Live Ratings
+The file [`irr_conflict.py`](https://github.com/xehu/tpm-data-anotation/blob/main/irr_conflict.py) is designed to read from the individual spreadsheets of each rater and help track inter-rater reliability
+
+The default behavior occurs when you run the script with no arguments:
+```
+python3 irr_conflict.py
+```
+This will print the proportion of agreement across all of the rating metrics:
+```
+{'Directness_content': 0.9555555555555556, 'Directness_expression': 0.9111111111111112, 'OI_content': 0.8666666666666668, 'OI_expression': 0.8666666666666667}
+```
+By running the script with the `--check` argument, you can specifically check for IRR on one of the 4 metrics:
+```
+python3 irr_conflict.py --check [ARGUMENT]
+```
+You need to pass in one of `directness_content`, `directness_expression`, `OI_content`, or `OI_expression` as the ARGUMENT.
+
+This will print out the specific IRR for that metric, and also save a CSV under the `disagreed_messages/` folder that identifies which messages people disagreed on. This will make it easier to streamline discussions and surface misunderstandings.
+
+### IRR for the Conversation Pre-Test
+[The `irr_for_multi_conversation_pretest` script](https://github.com/xehu/tpm-data-anotation/blob/main/irr_for_multi_conversation_pretest.py) is designed to calculate the Fleiss's Kappa inter-rater reliability metric for RA candidates completing the three-conversation rating task. The logic/code from this file can be easily adapted to other rating contexts, assuming that each rater has a duplicate of the same spreadsheet (that is, the scheduler assigns spreadsheets consistently to all raters).
