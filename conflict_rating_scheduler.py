@@ -13,9 +13,9 @@ from rating_dictionary import RATING_DICTIONARY
 gc = gspread.service_account(filename='./tpm-data-annotation-aae74b403ab4.json')
 
 # Read in the conversation samples
-AWRY_SAMPLES = pd.read_csv('./conflict_reddit_data/samples/awry_samples.csv')
-WINNNING_SAMPLES = pd.read_csv('./conflict_reddit_data/samples/winning_samples.csv')
-CONVERSATIONS = pd.concat([AWRY_SAMPLES, WINNNING_SAMPLES], axis=0)
+AWRY = pd.read_csv('./conflict_reddit_data/full_data/conversations_gone_awry.csv')
+WINNNING = pd.read_csv('./conflict_reddit_data/full_data/winning_conversations.csv')
+CONVERSATIONS = pd.concat([AWRY, WINNNING], axis=0)
 
 """
 Check for the conversation labeling log and create one if it doesn't exist
