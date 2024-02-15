@@ -12,9 +12,9 @@ from rating_dictionary import RATING_DICTIONARY
 # Service Email: tpm-data-annotation@tpm-data-annotation.iam.gserviceaccount.com
 gc = gspread.service_account(filename='./tpm-data-annotation-aae74b403ab4.json')
 
-# Read in the conversation samples
-AWRY = pd.read_csv('./conflict_reddit_data/full_data/conversations_gone_awry.csv')
-WINNNING = pd.read_csv('./conflict_reddit_data/full_data/winning_conversations.csv')
+# Read in the conversations
+AWRY = pd.read_csv('./conflict_reddit_data/full_data/conversations_gone_awry.csv', dtype={'timestamp': 'Int64', 'meta.score': 'Int64'})
+WINNNING = pd.read_csv('./conflict_reddit_data/full_data/winning_conversations.csv', dtype={'timestamp': 'Int64', 'meta.score': 'Int64'})
 CONVERSATIONS = pd.concat([AWRY, WINNNING], axis=0)
 
 """
@@ -220,10 +220,10 @@ def update(rater_id):
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'status'] = "done"
 			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
 
-		# time.sleep(2) # sleeping due to API quota limits (for now)
-
 		if(i > 0 and i % 10 == 0):
 			print(str(i) + " requests completed...")
+			if(i%20 == 0):
+				time.sleep(10) # sleeping due to API quota limits (for now)
 
 	# update LABEL_LOG
 	LABEL_LOG.to_csv(CONVERSATION_LABELING_LOG_PATH, index=False)
