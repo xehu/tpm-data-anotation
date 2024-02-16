@@ -69,7 +69,10 @@ def next_available_row(worksheet, colnum=8):
 
 
 def get_disagreed_messages(questions_answers_table):
-	disagreed_indices = np.where(np.all(questions_answers_table != 0, axis=1))[0]
+	disagreed_indices = np.where(np.all(questions_answers_table != 3, axis=1))[0]
+
+	print(disagreed_indices)
+
 	disagreed_messages = {} # Format -- {id: text}
 	for index in disagreed_indices:
 		sh = gc.open_by_url(list(RATING_DICTIONARY.values())[0]).sheet1 # open just the first sheet
@@ -141,8 +144,9 @@ if __name__ == "__main__":
 			content = COL+"3:" + COL+str(last_rated_row)
 			content_ratings = get_ratings_for_range(content, RATING_DICTIONARY.values())
 			datatable = convert_ratings_to_question_rater_answer(content_ratings, conversion_dict)
+		
 			questions_answers_table = pivot_table_frequency(datatable[:, 0], datatable[:, 2])
-			
+
 			print("Agreement for " + metric_to_check + ": " + str(observed_agreement(questions_answers_table)))
 			get_disagreed_messages(questions_answers_table).to_csv('./disagreed_messages/' + metric_to_check + '.csv')
 
