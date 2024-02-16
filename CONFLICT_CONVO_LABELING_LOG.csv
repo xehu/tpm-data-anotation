@@ -1,514 +1,514 @@
 CONV_ID,id,rating_directness_content,rating_directness_expression,rating_OI_content,rating_OI_expression,rater_id,status,last_updated_time
-d3j4tn9,d3j4tn9_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:35:35.770168
-d3j4tn9,d3j4tn9_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:36.653008
-d3j4tn9,d3jqp6d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:35:37.318892
-d3j4tn9,d3jtj7i,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:38.025749
-d3j4tn9,d3ldu4f,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:35:38.644150
-dp815p0,dp815p0_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:39.262305
-dp815p0,dp83n5i_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:39.892203
-dp815p0,dp83n5i_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:40.510457
-dp815p0,dp8ayhj_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:41.131431
-dp815p0,dp8ayhj_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:41.761554
-dp815p0,dp8b8t6,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:42.366417
-dp815p0,dp8z33y,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:35:43.008998
-3046_A,t3_30uf3s,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:43.718889
-3046_A,t1_cpvxc6j_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:35:44.346880
-3046_A,t1_cpvyv7v,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:44.989902
-d3j4tn9,d3j4tn9_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:35:35.770168
-d3j4tn9,d3j4tn9_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:36.653008
-d3j4tn9,d3jqp6d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:35:37.318892
-d3j4tn9,d3jtj7i,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:38.025749
-d3j4tn9,d3ldu4f,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:35:38.644150
-dp815p0,dp815p0_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:39.262305
-dp815p0,dp83n5i_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:39.892203
-dp815p0,dp83n5i_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:40.510457
-dp815p0,dp8ayhj_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:41.131431
-dp815p0,dp8ayhj_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:41.761554
-dp815p0,dp8b8t6,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:42.366417
-dp815p0,dp8z33y,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:35:43.008998
-3046_A,t3_30uf3s,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:43.718889
-3046_A,t1_cpvxc6j_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:35:44.346880
-3046_A,t1_cpvyv7v,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:44.989902
-d3j4tn9,d3j4tn9_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:35:35.770168
-d3j4tn9,d3j4tn9_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:36.653008
-d3j4tn9,d3jqp6d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:35:37.318892
-d3j4tn9,d3jtj7i,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:38.025749
-d3j4tn9,d3ldu4f,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:35:38.644150
-dp815p0,dp815p0_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:39.262305
-dp815p0,dp83n5i_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:39.892203
-dp815p0,dp83n5i_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:40.510457
-dp815p0,dp8ayhj_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:41.131431
-dp815p0,dp8ayhj_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:41.761554
-dp815p0,dp8b8t6,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:42.366417
-dp815p0,dp8z33y,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:35:43.008998
-3046_A,t3_30uf3s,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:43.718889
-3046_A,t1_cpvxc6j_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:35:44.346880
-3046_A,t1_cpvyv7v,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:44.989902
-cys9xnl,cys9xnl,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:45.622705
-cys9xnl,cysac2e_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:46.250648
-cys9xnl,cysac2e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:46.885103
-cys9xnl,cyshwie_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:47.496485
-cys9xnl,cysj01x,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:48.145349
-cys9xnl,cysj8t8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:35:48.761811
-cys9xnl,cysk2vc,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:35:59.486321
-cys9xnl,cyslbuz,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:00.239345
-cys9xnl,cyslw2z_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:36:00.859794
-cys9xnl,cyslw2z_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:36:01.492156
-cys9xnl,cysm6pl_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:36:02.140182
-cys9xnl,cysm6pl_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:02.885145
-d164d22,d164d22,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:03.547043
-d164d22,d164s76,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:04.154408
-d164d22,d165mtu_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:04.792505
-d164d22,d165mtu_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:36:05.440436
-d164d22,d16ag4s,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:06.117271
-d164d22,d16akdb,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:06.880261
-d164d22,d16at8t,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:07.510634
-d4hcjto,d4hcjto,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:08.188148
-d4hcjto,d4hcl84,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:08.798709
-d4hcjto,d4hcn8a,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:09.451170
-d4hcjto,d4hcon6_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:36:10.087827
-d4hcjto,d4hcon6_2,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:10.742993
-d4hcjto,d4hcvk6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:11.363118
-d4hcjto,d4hd9kk_1,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:11.999030
-d4hcjto,d4hd9kk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:22.660694
-d4hcjto,d4hdz6j,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:23.310040
-d4hcjto,d4he2iq,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:23.962655
-dzgz6m2,dzgz6m2_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:24.597626
-dzgz6m2,dzgz6m2_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:25.206713
-dzgz6m2,dzh0psx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:36:26.031065
-dzgz6m2,dzh0psx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:26.656867
-dzgz6m2,dzh0xpe,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:27.250671
-e6ciwm3,e6ciwm3_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:28.054094
-e6ciwm3,e6ciwm3_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:28.848088
-e6ciwm3,e6ciwm3_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:29.594799
-e6ciwm3,e6ciwm3_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:36:30.233442
-e6ciwm3,e6cjudx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:30.864547
-e6ciwm3,e6cjudx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:31.507179
-e6ciwm3,e6clcvs_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:32.151973
-e6ciwm3,e6clcvs_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:32.970991
-e6ciwm3,e6clcvs_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:33.612072
-e6ciwm3,e6clcvs_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:36:34.229415
-e6ciwm3,e6clcvs_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:34.878713
-e6ciwm3,e6csi4d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:35.818019
-e6ciwm3,e6ctqqw_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:46.872636
-e6ciwm3,e6ctqqw_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:47.500305
-e6ciwm3,e6ctqqw_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:48.123542
-e6ciwm3,e6ctqqw_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:48.757694
-e6ciwm3,e6ctqqw_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:49.499984
-e6ciwm3,e6ctqqw_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:50.135089
-e6ciwm3,e6d3cso_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:50.772575
-e6ciwm3,e6d3cso_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:51.473475
-e6ciwm3,e6d3cso_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:52.124856
-e6ciwm3,e6d3cso_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:52.779530
-e6ciwm3,e6d3cso_5,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:53.460304
-e6ciwm3,e6d3v4s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:54.160650
-e6ciwm3,e6d3v4s_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:54.895285
-e6ciwm3,e6d3v4s_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:55.563126
-e6ciwm3,e6d4v67_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:56.206368
-e6ciwm3,e6d4v67_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:56.847257
-e6ciwm3,e6d4v67_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:57.562331
-e6ciwm3,e6d4v67_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:58.196263
-e6ciwm3,e6d4v67_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:58.838453
-e6ciwm3,e6d4v67_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:36:59.473085
-e6ciwm3,e6d4v67_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:10.204671
-e6ciwm3,e6d5ndb,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:11.140501
-e6ciwm3,e6d644s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:11.814287
-e6ciwm3,e6d69zl_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:37:12.467346
-e6ciwm3,e6d69zl_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:37:13.082389
-e6ciwm3,e6d6hj8_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:13.715629
-e6ciwm3,e6d6hj8_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:14.347947
-e6ciwm3,e6d6hj8_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:15.017290
-dbrj3ub,dbrj3ub_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:15.657240
-dbrj3ub,dbrj3ub_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:16.451896
-dbrj3ub,dbrj3ub_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:17.241760
-dbrj3ub,dbrj3ub_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:17.888016
-dbrj3ub,dbrlkqg,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:18.532168
-dbrj3ub,dbrlwus_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:19.208989
-dbrj3ub,dbrlwus_2,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:19.888779
-dbrj3ub,dbrm6zn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:20.557770
-dbrj3ub,dbrmdcs,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:37:21.211794
-dbrj3ub,dbrmue8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:21.836861
-dbrj3ub,dbrmue8_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:22.489558
-de92e7n,de92e7n,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:23.125140
-de92e7n,de9sp4o,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:33.772051
-de92e7n,de9wr2x_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:34.410920
-de92e7n,de9wr2x_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:35.046189
-d5q07u2,d5q07u2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:35.672539
-d5q07u2,d5q0fkh,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:36.328633
-d5q07u2,d5q0wdg,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:36.955513
-d5q07u2,d5q3eh6,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:37.578811
-d85vi9n,d85vi9n_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:38.236664
-d85vi9n,d85vi9n_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:38.884065
-d85vi9n,d85vi9n_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:39.505965
-d85vi9n,d85vi9n_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:40.158745
-d85vi9n,d85vi9n_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:40.797699
-d85vi9n,d85vi9n_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:37:41.421404
-d85vi9n,d85xpyt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:42.072805
-d85vi9n,d85xpyt_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:42.687757
-d85vi9n,d85xpyt_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:43.332088
-d85vi9n,d85y4rt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:43.953194
-d85vi9n,d85y4rt_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:44.574155
-d85vi9n,d85z3im_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:45.237784
-d85vi9n,d85z3im_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:45.928650
-d85vi9n,d85zj9e_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:56.741639
-d85vi9n,d85zj9e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:57.379071
-d85vi9n,d85zj9e_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:57.997030
-d85vi9n,d860jzy_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:58.640793
-d85vi9n,d860jzy_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:37:59.432301
-d85vi9n,d860jzy_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:00.079240
-d85vi9n,d860jzy_4,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:00.694693
-d85vi9n,d864huv_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:01.458486
-d85vi9n,d864huv_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:02.213915
-d85vi9n,d864huv_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:02.877970
-d85vi9n,d86bqrm_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:03.526481
-d85vi9n,d86bqrm_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:04.163158
-d85vi9n,d86bzje_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:04.788497
-d85vi9n,d86bzje_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:05.431088
-d85vi9n,d86cm12_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:06.079649
-d85vi9n,d86cm12_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:06.706155
-d85vi9n,d86cm12_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:07.349809
-d85vi9n,d86dx8t_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:08.111403
-d85vi9n,d86dx8t_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:08.732667
-d85vi9n,d86dx8t_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:09.379004
-d85vi9n,d86dx8t_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:20.037510
-d85vi9n,d86dx8t_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:20.680514
-61_B,t3_2qr8gn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:21.321029
-61_B,t1_cn9b5po_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:21.974957
-61_B,t1_cn9b5po_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:22.586677
-61_B,t1_cn9b5po_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:23.210306
-61_B,t1_cn9b5po_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:23.822754
-61_B,t1_cn9b5po_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:24.476407
-61_B,t1_cn9b5po_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:25.108611
-61_B,t1_cn9b5po_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:25.771286
-61_B,t1_cn9b5po_8,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:26.520848
-61_B,t1_cn9j8n8,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:27.138315
-835_A,t3_2bo66v,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:32:23.616034
-835_A,t1_cj7geua_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:28.473974
-835_A,t1_cj7geua_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:29.106654
-1278_B,t3_24c5qv,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:32:25.557276
-1278_B,t1_ch5oa5w,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 10:38:30.374964
-1278_B,t1_ch5og13_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:30.989857
-1778_A,t3_1v2buu,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:27:30.436854
-1778_A,t1_ceo0vsq,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:32.473004
-1778_A,t1_ceo1051,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:43.140024
-1811_B,t3_1udlql,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:32:38.976274
-1811_B,t1_ceh07bk_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:44.400068
-1811_B,t1_ceh07bk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:45.032522
-1811_B,t1_ceh0b84_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:46.020262
-1811_B,t1_ceh0b84_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:46.649854
-3057_A,t3_30oi71,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:32:41.966321
-3057_A,t1_cpuh9jr_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:47.943958
-3057_A,t1_cpuh9jr_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:48.584026
-3057_A,t1_cpuh9jr_3,No - Indirect Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:38:49.228614
-cys9xnl,cys9xnl,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:45.622705
-cys9xnl,cysac2e_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:46.250648
-cys9xnl,cysac2e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:46.885103
-cys9xnl,cyshwie_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:47.496485
-cys9xnl,cysj01x,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:48.145349
-cys9xnl,cysj8t8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:35:48.761811
-cys9xnl,cysk2vc,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:35:59.486321
-cys9xnl,cyslbuz,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:00.239345
-cys9xnl,cyslw2z_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:36:00.859794
-cys9xnl,cyslw2z_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:36:01.492156
-cys9xnl,cysm6pl_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:36:02.140182
-cys9xnl,cysm6pl_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:02.885145
-d164d22,d164d22,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:03.547043
-d164d22,d164s76,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:04.154408
-d164d22,d165mtu_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:04.792505
-d164d22,d165mtu_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:36:05.440436
-d164d22,d16ag4s,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:06.117271
-d164d22,d16akdb,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:06.880261
-d164d22,d16at8t,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:07.510634
-d4hcjto,d4hcjto,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:08.188148
-d4hcjto,d4hcl84,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:08.798709
-d4hcjto,d4hcn8a,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:09.451170
-d4hcjto,d4hcon6_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:36:10.087827
-d4hcjto,d4hcon6_2,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:10.742993
-d4hcjto,d4hcvk6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:11.363118
-d4hcjto,d4hd9kk_1,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:11.999030
-d4hcjto,d4hd9kk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:22.660694
-d4hcjto,d4hdz6j,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:23.310040
-d4hcjto,d4he2iq,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:23.962655
-dzgz6m2,dzgz6m2_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:24.597626
-dzgz6m2,dzgz6m2_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:25.206713
-dzgz6m2,dzh0psx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:36:26.031065
-dzgz6m2,dzh0psx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:26.656867
-dzgz6m2,dzh0xpe,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:27.250671
-e6ciwm3,e6ciwm3_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:28.054094
-e6ciwm3,e6ciwm3_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:28.848088
-e6ciwm3,e6ciwm3_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:29.594799
-e6ciwm3,e6ciwm3_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:36:30.233442
-e6ciwm3,e6cjudx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:30.864547
-e6ciwm3,e6cjudx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:31.507179
-e6ciwm3,e6clcvs_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:32.151973
-e6ciwm3,e6clcvs_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:32.970991
-e6ciwm3,e6clcvs_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:33.612072
-e6ciwm3,e6clcvs_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:36:34.229415
-e6ciwm3,e6clcvs_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:34.878713
-e6ciwm3,e6csi4d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:35.818019
-e6ciwm3,e6ctqqw_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:46.872636
-e6ciwm3,e6ctqqw_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:47.500305
-e6ciwm3,e6ctqqw_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:48.123542
-e6ciwm3,e6ctqqw_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:48.757694
-e6ciwm3,e6ctqqw_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:49.499984
-e6ciwm3,e6ctqqw_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:50.135089
-e6ciwm3,e6d3cso_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:50.772575
-e6ciwm3,e6d3cso_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:51.473475
-e6ciwm3,e6d3cso_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:52.124856
-e6ciwm3,e6d3cso_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:52.779530
-e6ciwm3,e6d3cso_5,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:53.460304
-e6ciwm3,e6d3v4s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:54.160650
-e6ciwm3,e6d3v4s_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:54.895285
-e6ciwm3,e6d3v4s_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:55.563126
-e6ciwm3,e6d4v67_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:56.206368
-e6ciwm3,e6d4v67_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:56.847257
-e6ciwm3,e6d4v67_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:57.562331
-e6ciwm3,e6d4v67_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:58.196263
-e6ciwm3,e6d4v67_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:58.838453
-e6ciwm3,e6d4v67_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:36:59.473085
-e6ciwm3,e6d4v67_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:10.204671
-e6ciwm3,e6d5ndb,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:11.140501
-e6ciwm3,e6d644s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:11.814287
-e6ciwm3,e6d69zl_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:37:12.467346
-e6ciwm3,e6d69zl_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:37:13.082389
-e6ciwm3,e6d6hj8_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:13.715629
-e6ciwm3,e6d6hj8_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:14.347947
-e6ciwm3,e6d6hj8_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:15.017290
-dbrj3ub,dbrj3ub_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:15.657240
-dbrj3ub,dbrj3ub_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:16.451896
-dbrj3ub,dbrj3ub_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:17.241760
-dbrj3ub,dbrj3ub_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:17.888016
-dbrj3ub,dbrlkqg,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:18.532168
-dbrj3ub,dbrlwus_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:19.208989
-dbrj3ub,dbrlwus_2,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:19.888779
-dbrj3ub,dbrm6zn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:20.557770
-dbrj3ub,dbrmdcs,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:37:21.211794
-dbrj3ub,dbrmue8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:21.836861
-dbrj3ub,dbrmue8_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:22.489558
-de92e7n,de92e7n,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:23.125140
-de92e7n,de9sp4o,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:33.772051
-de92e7n,de9wr2x_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:34.410920
-de92e7n,de9wr2x_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:35.046189
-d5q07u2,d5q07u2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:35.672539
-d5q07u2,d5q0fkh,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:36.328633
-d5q07u2,d5q0wdg,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:36.955513
-d5q07u2,d5q3eh6,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:37.578811
-d85vi9n,d85vi9n_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:38.236664
-d85vi9n,d85vi9n_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:38.884065
-d85vi9n,d85vi9n_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:39.505965
-d85vi9n,d85vi9n_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:40.158745
-d85vi9n,d85vi9n_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:40.797699
-d85vi9n,d85vi9n_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:37:41.421404
-d85vi9n,d85xpyt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:42.072805
-d85vi9n,d85xpyt_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:42.687757
-d85vi9n,d85xpyt_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:43.332088
-d85vi9n,d85y4rt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:43.953194
-d85vi9n,d85y4rt_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:44.574155
-d85vi9n,d85z3im_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:45.237784
-d85vi9n,d85z3im_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:45.928650
-d85vi9n,d85zj9e_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:56.741639
-d85vi9n,d85zj9e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:57.379071
-d85vi9n,d85zj9e_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:57.997030
-d85vi9n,d860jzy_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:58.640793
-d85vi9n,d860jzy_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:37:59.432301
-d85vi9n,d860jzy_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:00.079240
-d85vi9n,d860jzy_4,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:00.694693
-d85vi9n,d864huv_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:01.458486
-d85vi9n,d864huv_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:02.213915
-d85vi9n,d864huv_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:02.877970
-d85vi9n,d86bqrm_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:03.526481
-d85vi9n,d86bqrm_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:04.163158
-d85vi9n,d86bzje_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:04.788497
-d85vi9n,d86bzje_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:05.431088
-d85vi9n,d86cm12_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:06.079649
-d85vi9n,d86cm12_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:06.706155
-d85vi9n,d86cm12_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:07.349809
-d85vi9n,d86dx8t_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:08.111403
-d85vi9n,d86dx8t_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:08.732667
-d85vi9n,d86dx8t_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:09.379004
-d85vi9n,d86dx8t_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:20.037510
-d85vi9n,d86dx8t_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:20.680514
-61_B,t3_2qr8gn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:21.321029
-61_B,t1_cn9b5po_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:21.974957
-61_B,t1_cn9b5po_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:22.586677
-61_B,t1_cn9b5po_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:23.210306
-61_B,t1_cn9b5po_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:23.822754
-61_B,t1_cn9b5po_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:24.476407
-61_B,t1_cn9b5po_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:25.108611
-61_B,t1_cn9b5po_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:25.771286
-61_B,t1_cn9b5po_8,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:26.520848
-61_B,t1_cn9j8n8,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:27.138315
-835_A,t3_2bo66v,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:32:23.616034
-835_A,t1_cj7geua_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:28.473974
-835_A,t1_cj7geua_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:29.106654
-1278_B,t3_24c5qv,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:32:25.557276
-1278_B,t1_ch5oa5w,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 10:38:30.374964
-1278_B,t1_ch5og13_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:30.989857
-1778_A,t3_1v2buu,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:27:30.436854
-1778_A,t1_ceo0vsq,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:32.473004
-1778_A,t1_ceo1051,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:43.140024
-1811_B,t3_1udlql,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:32:38.976274
-1811_B,t1_ceh07bk_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:44.400068
-1811_B,t1_ceh07bk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:45.032522
-1811_B,t1_ceh0b84_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:46.020262
-1811_B,t1_ceh0b84_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:46.649854
-3057_A,t3_30oi71,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:32:41.966321
-3057_A,t1_cpuh9jr_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:47.943958
-3057_A,t1_cpuh9jr_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:48.584026
-3057_A,t1_cpuh9jr_3,No - Indirect Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 10:38:49.228614
-cys9xnl,cys9xnl,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:45.622705
-cys9xnl,cysac2e_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:46.250648
-cys9xnl,cysac2e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:46.885103
-cys9xnl,cyshwie_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:47.496485
-cys9xnl,cysj01x,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:48.145349
-cys9xnl,cysj8t8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:35:48.761811
-cys9xnl,cysk2vc,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:35:59.486321
-cys9xnl,cyslbuz,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:00.239345
-cys9xnl,cyslw2z_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:36:00.859794
-cys9xnl,cyslw2z_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:36:01.492156
-cys9xnl,cysm6pl_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:36:02.140182
-cys9xnl,cysm6pl_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:02.885145
-d164d22,d164d22,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:03.547043
-d164d22,d164s76,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:04.154408
-d164d22,d165mtu_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:04.792505
-d164d22,d165mtu_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:36:05.440436
-d164d22,d16ag4s,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:06.117271
-d164d22,d16akdb,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:06.880261
-d164d22,d16at8t,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:07.510634
-d4hcjto,d4hcjto,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:08.188148
-d4hcjto,d4hcl84,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:08.798709
-d4hcjto,d4hcn8a,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:09.451170
-d4hcjto,d4hcon6_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:36:10.087827
-d4hcjto,d4hcon6_2,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:10.742993
-d4hcjto,d4hcvk6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:11.363118
-d4hcjto,d4hd9kk_1,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:11.999030
-d4hcjto,d4hd9kk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:22.660694
-d4hcjto,d4hdz6j,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:23.310040
-d4hcjto,d4he2iq,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:23.962655
-dzgz6m2,dzgz6m2_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:24.597626
-dzgz6m2,dzgz6m2_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:25.206713
-dzgz6m2,dzh0psx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:36:26.031065
-dzgz6m2,dzh0psx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:26.656867
-dzgz6m2,dzh0xpe,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:27.250671
-e6ciwm3,e6ciwm3_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:28.054094
-e6ciwm3,e6ciwm3_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:28.848088
-e6ciwm3,e6ciwm3_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:29.594799
-e6ciwm3,e6ciwm3_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:36:30.233442
-e6ciwm3,e6cjudx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:30.864547
-e6ciwm3,e6cjudx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:31.507179
-e6ciwm3,e6clcvs_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:32.151973
-e6ciwm3,e6clcvs_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:32.970991
-e6ciwm3,e6clcvs_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:33.612072
-e6ciwm3,e6clcvs_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:36:34.229415
-e6ciwm3,e6clcvs_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:34.878713
-e6ciwm3,e6csi4d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:35.818019
-e6ciwm3,e6ctqqw_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:46.872636
-e6ciwm3,e6ctqqw_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:47.500305
-e6ciwm3,e6ctqqw_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:48.123542
-e6ciwm3,e6ctqqw_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:48.757694
-e6ciwm3,e6ctqqw_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:49.499984
-e6ciwm3,e6ctqqw_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:50.135089
-e6ciwm3,e6d3cso_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:50.772575
-e6ciwm3,e6d3cso_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:51.473475
-e6ciwm3,e6d3cso_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:52.124856
-e6ciwm3,e6d3cso_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:52.779530
-e6ciwm3,e6d3cso_5,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:53.460304
-e6ciwm3,e6d3v4s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:54.160650
-e6ciwm3,e6d3v4s_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:54.895285
-e6ciwm3,e6d3v4s_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:55.563126
-e6ciwm3,e6d4v67_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:56.206368
-e6ciwm3,e6d4v67_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:56.847257
-e6ciwm3,e6d4v67_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:57.562331
-e6ciwm3,e6d4v67_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:58.196263
-e6ciwm3,e6d4v67_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:58.838453
-e6ciwm3,e6d4v67_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:36:59.473085
-e6ciwm3,e6d4v67_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:10.204671
-e6ciwm3,e6d5ndb,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:11.140501
-e6ciwm3,e6d644s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:11.814287
-e6ciwm3,e6d69zl_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:37:12.467346
-e6ciwm3,e6d69zl_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:37:13.082389
-e6ciwm3,e6d6hj8_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:13.715629
-e6ciwm3,e6d6hj8_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:14.347947
-e6ciwm3,e6d6hj8_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:15.017290
-dbrj3ub,dbrj3ub_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:15.657240
-dbrj3ub,dbrj3ub_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:16.451896
-dbrj3ub,dbrj3ub_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:17.241760
-dbrj3ub,dbrj3ub_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:17.888016
-dbrj3ub,dbrlkqg,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:18.532168
-dbrj3ub,dbrlwus_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:19.208989
-dbrj3ub,dbrlwus_2,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:19.888779
-dbrj3ub,dbrm6zn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:20.557770
-dbrj3ub,dbrmdcs,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:37:21.211794
-dbrj3ub,dbrmue8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:21.836861
-dbrj3ub,dbrmue8_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:22.489558
-de92e7n,de92e7n,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:23.125140
-de92e7n,de9sp4o,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:33.772051
-de92e7n,de9wr2x_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:34.410920
-de92e7n,de9wr2x_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:35.046189
-d5q07u2,d5q07u2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:35.672539
-d5q07u2,d5q0fkh,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:36.328633
-d5q07u2,d5q0wdg,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:36.955513
-d5q07u2,d5q3eh6,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:37.578811
-d85vi9n,d85vi9n_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:38.236664
-d85vi9n,d85vi9n_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:38.884065
-d85vi9n,d85vi9n_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:39.505965
-d85vi9n,d85vi9n_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:40.158745
-d85vi9n,d85vi9n_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:40.797699
-d85vi9n,d85vi9n_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:37:41.421404
-d85vi9n,d85xpyt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:42.072805
-d85vi9n,d85xpyt_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:42.687757
-d85vi9n,d85xpyt_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:43.332088
-d85vi9n,d85y4rt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:43.953194
-d85vi9n,d85y4rt_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:44.574155
-d85vi9n,d85z3im_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:45.237784
-d85vi9n,d85z3im_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:45.928650
-d85vi9n,d85zj9e_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:56.741639
-d85vi9n,d85zj9e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:57.379071
-d85vi9n,d85zj9e_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:57.997030
-d85vi9n,d860jzy_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:58.640793
-d85vi9n,d860jzy_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:37:59.432301
-d85vi9n,d860jzy_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:00.079240
-d85vi9n,d860jzy_4,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:00.694693
-d85vi9n,d864huv_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:01.458486
-d85vi9n,d864huv_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:02.213915
-d85vi9n,d864huv_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:02.877970
-d85vi9n,d86bqrm_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:03.526481
-d85vi9n,d86bqrm_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:04.163158
-d85vi9n,d86bzje_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:04.788497
-d85vi9n,d86bzje_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:05.431088
-d85vi9n,d86cm12_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:06.079649
-d85vi9n,d86cm12_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:06.706155
-d85vi9n,d86cm12_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:07.349809
-d85vi9n,d86dx8t_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:08.111403
-d85vi9n,d86dx8t_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:08.732667
-d85vi9n,d86dx8t_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:09.379004
-d85vi9n,d86dx8t_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:20.037510
-d85vi9n,d86dx8t_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:20.680514
-61_B,t3_2qr8gn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:21.321029
-61_B,t1_cn9b5po_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:21.974957
-61_B,t1_cn9b5po_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:22.586677
-61_B,t1_cn9b5po_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:23.210306
-61_B,t1_cn9b5po_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:23.822754
-61_B,t1_cn9b5po_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:24.476407
-61_B,t1_cn9b5po_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:25.108611
-61_B,t1_cn9b5po_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:25.771286
-61_B,t1_cn9b5po_8,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:26.520848
-61_B,t1_cn9j8n8,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:27.138315
-835_A,t3_2bo66v,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:32:23.616034
-835_A,t1_cj7geua_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:28.473974
-835_A,t1_cj7geua_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:29.106654
-1278_B,t3_24c5qv,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:32:25.557276
-1278_B,t1_ch5oa5w,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 10:38:30.374964
-1278_B,t1_ch5og13_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:30.989857
-1778_A,t3_1v2buu,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:27:30.436854
-1778_A,t1_ceo0vsq,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:32.473004
-1778_A,t1_ceo1051,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:43.140024
-1811_B,t3_1udlql,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:32:38.976274
-1811_B,t1_ceh07bk_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:44.400068
-1811_B,t1_ceh07bk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:45.032522
-1811_B,t1_ceh0b84_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:46.020262
-1811_B,t1_ceh0b84_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:46.649854
-3057_A,t3_30oi71,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:32:41.966321
-3057_A,t1_cpuh9jr_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:47.943958
-3057_A,t1_cpuh9jr_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:48.584026
-3057_A,t1_cpuh9jr_3,No - Indirect Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:38:49.228614
+d3j4tn9,d3j4tn9_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:01.762958
+d3j4tn9,d3j4tn9_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:02.344684
+d3j4tn9,d3jqp6d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:02.981800
+d3j4tn9,d3jtj7i,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:03.680682
+d3j4tn9,d3ldu4f,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:04.402914
+dp815p0,dp815p0_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:05.089773
+dp815p0,dp83n5i_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:05.669730
+dp815p0,dp83n5i_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:06.347833
+dp815p0,dp8ayhj_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:06.925616
+dp815p0,dp8ayhj_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:07.507315
+dp815p0,dp8b8t6,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:08.088100
+dp815p0,dp8z33y,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:08.723886
+3046_A,t3_30uf3s,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:09.378193
+3046_A,t1_cpvxc6j_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:10.022368
+3046_A,t1_cpvyv7v,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:10.644316
+d3j4tn9,d3j4tn9_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:05.941129
+d3j4tn9,d3j4tn9_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:06.944542
+d3j4tn9,d3jqp6d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:07.639950
+d3j4tn9,d3jtj7i,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:08.529962
+d3j4tn9,d3ldu4f,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:09.474757
+dp815p0,dp815p0_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:10.192925
+dp815p0,dp83n5i_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:11.425262
+dp815p0,dp83n5i_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:12.638938
+dp815p0,dp8ayhj_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:13.391041
+dp815p0,dp8ayhj_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:14.108715
+dp815p0,dp8b8t6,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:14.801879
+dp815p0,dp8z33y,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:15.421120
+3046_A,t3_30uf3s,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:16.131161
+3046_A,t1_cpvxc6j_1,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:16.799275
+3046_A,t1_cpvyv7v,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:17.440728
+d3j4tn9,d3j4tn9_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:24:46.072540
+d3j4tn9,d3j4tn9_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:46.731083
+d3j4tn9,d3jqp6d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:24:47.543632
+d3j4tn9,d3jtj7i,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:48.159374
+d3j4tn9,d3ldu4f,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:24:48.795502
+dp815p0,dp815p0_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:49.450180
+dp815p0,dp83n5i_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:50.055503
+dp815p0,dp83n5i_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:50.688610
+dp815p0,dp8ayhj_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:51.355415
+dp815p0,dp8ayhj_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:52.028168
+dp815p0,dp8b8t6,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:52.634854
+dp815p0,dp8z33y,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:24:53.184844
+3046_A,t3_30uf3s,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:53.872274
+3046_A,t1_cpvxc6j_1,No - Indirect Content,No - Indirect Expression,No - Content does not oppose anyone,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:24:54.495522
+3046_A,t1_cpvyv7v,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:55.094841
+cys9xnl,cys9xnl,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:11.244298
+cys9xnl,cysac2e_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:11.866938
+cys9xnl,cysac2e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:12.516355
+cys9xnl,cyshwie_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:13.097721
+cys9xnl,cysj01x,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:13.840030
+cys9xnl,cysj8t8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:14.407094
+cys9xnl,cysk2vc,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:24.971358
+cys9xnl,cyslbuz,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:25.596468
+cys9xnl,cyslw2z_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:26.207536
+cys9xnl,cyslw2z_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:26.739578
+cys9xnl,cysm6pl_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:27.318393
+cys9xnl,cysm6pl_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:27.923422
+d164d22,d164d22,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:28.521790
+d164d22,d164s76,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:29.090302
+d164d22,d165mtu_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:29.687303
+d164d22,d165mtu_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:30.303654
+d164d22,d16ag4s,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:30.946714
+d164d22,d16akdb,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:31.615761
+d164d22,d16at8t,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:32.153068
+d4hcjto,d4hcjto,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:32.711268
+d4hcjto,d4hcl84,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:33.253553
+d4hcjto,d4hcn8a,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:33.798713
+d4hcjto,d4hcon6_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:34.356174
+d4hcjto,d4hcon6_2,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:34.965576
+d4hcjto,d4hcvk6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:35.536577
+d4hcjto,d4hd9kk_1,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:36.146507
+d4hcjto,d4hd9kk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:46.773076
+d4hcjto,d4hdz6j,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:47.308986
+d4hcjto,d4he2iq,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:47.845831
+dzgz6m2,dzgz6m2_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:48.433524
+dzgz6m2,dzgz6m2_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:48.978248
+dzgz6m2,dzh0psx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:49.524658
+dzgz6m2,dzh0psx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:50.070282
+dzgz6m2,dzh0xpe,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:50.695895
+e6ciwm3,e6ciwm3_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:51.254393
+e6ciwm3,e6ciwm3_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:51.798979
+e6ciwm3,e6ciwm3_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:52.396468
+e6ciwm3,e6ciwm3_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:52.974626
+e6ciwm3,e6cjudx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:53.589546
+e6ciwm3,e6cjudx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:54.137797
+e6ciwm3,e6clcvs_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:54.724326
+e6ciwm3,e6clcvs_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:55.292623
+e6ciwm3,e6clcvs_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:55.833163
+e6ciwm3,e6clcvs_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:28:56.365827
+e6ciwm3,e6clcvs_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:56.987946
+e6ciwm3,e6csi4d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:28:57.731202
+e6ciwm3,e6ctqqw_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:08.443925
+e6ciwm3,e6ctqqw_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:09.068785
+e6ciwm3,e6ctqqw_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:09.627922
+e6ciwm3,e6ctqqw_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:10.233883
+e6ciwm3,e6ctqqw_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:10.809832
+e6ciwm3,e6ctqqw_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:11.383599
+e6ciwm3,e6d3cso_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:11.950095
+e6ciwm3,e6d3cso_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:12.551998
+e6ciwm3,e6d3cso_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:13.246146
+e6ciwm3,e6d3cso_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:13.821687
+e6ciwm3,e6d3cso_5,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:14.379437
+e6ciwm3,e6d3v4s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:14.957965
+e6ciwm3,e6d3v4s_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:15.502305
+e6ciwm3,e6d3v4s_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:16.085775
+e6ciwm3,e6d4v67_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:16.797820
+e6ciwm3,e6d4v67_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:17.542302
+e6ciwm3,e6d4v67_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:18.226543
+e6ciwm3,e6d4v67_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:19.133579
+e6ciwm3,e6d4v67_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:19.705743
+e6ciwm3,e6d4v67_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:20.403293
+e6ciwm3,e6d4v67_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:31.301620
+e6ciwm3,e6d5ndb,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:31.868627
+e6ciwm3,e6d644s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:32.421225
+e6ciwm3,e6d69zl_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:29:32.979333
+e6ciwm3,e6d69zl_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:29:33.550395
+e6ciwm3,e6d6hj8_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:34.107293
+e6ciwm3,e6d6hj8_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:35.265251
+e6ciwm3,e6d6hj8_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:35.846433
+dbrj3ub,dbrj3ub_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:36.430487
+dbrj3ub,dbrj3ub_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:37.003053
+dbrj3ub,dbrj3ub_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:37.560506
+dbrj3ub,dbrj3ub_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:38.352776
+dbrj3ub,dbrlkqg,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:38.961754
+dbrj3ub,dbrlwus_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:39.563179
+dbrj3ub,dbrlwus_2,Neutral - Content contains no opinion,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:40.104759
+dbrj3ub,dbrm6zn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:40.638777
+dbrj3ub,dbrmdcs,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:29:41.207460
+dbrj3ub,dbrmue8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:41.776260
+dbrj3ub,dbrmue8_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:42.332941
+de92e7n,de92e7n,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:42.871871
+de92e7n,de9sp4o,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:53.470614
+de92e7n,de9wr2x_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:54.027579
+de92e7n,de9wr2x_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:54.644752
+d5q07u2,d5q07u2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:55.253653
+d5q07u2,d5q0fkh,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:55.848840
+d5q07u2,d5q0wdg,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:56.397386
+d5q07u2,d5q3eh6,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:56.990343
+d85vi9n,d85vi9n_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:57.539835
+d85vi9n,d85vi9n_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:58.091431
+d85vi9n,d85vi9n_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:58.616942
+d85vi9n,d85vi9n_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:59.176383
+d85vi9n,d85vi9n_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:29:59.775757
+d85vi9n,d85vi9n_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:30:00.427968
+d85vi9n,d85xpyt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:01.010934
+d85vi9n,d85xpyt_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:01.596691
+d85vi9n,d85xpyt_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:02.170226
+d85vi9n,d85y4rt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:02.890557
+d85vi9n,d85y4rt_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:03.440437
+d85vi9n,d85z3im_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:03.996334
+d85vi9n,d85z3im_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:04.564062
+d85vi9n,d85zj9e_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:15.393868
+d85vi9n,d85zj9e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:15.935542
+d85vi9n,d85zj9e_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:16.508928
+d85vi9n,d860jzy_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:17.089285
+d85vi9n,d860jzy_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:17.753414
+d85vi9n,d860jzy_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:18.309367
+d85vi9n,d860jzy_4,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:18.861791
+d85vi9n,d864huv_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:19.434766
+d85vi9n,d864huv_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:19.977581
+d85vi9n,d864huv_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:20.549756
+d85vi9n,d86bqrm_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:21.103534
+d85vi9n,d86bqrm_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:21.668044
+d85vi9n,d86bzje_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:22.222436
+d85vi9n,d86bzje_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:22.774499
+d85vi9n,d86cm12_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:23.321455
+d85vi9n,d86cm12_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:23.884054
+d85vi9n,d86cm12_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:24.463759
+d85vi9n,d86dx8t_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:25.044755
+d85vi9n,d86dx8t_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:25.572126
+d85vi9n,d86dx8t_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:26.134898
+d85vi9n,d86dx8t_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:36.766097
+d85vi9n,d86dx8t_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:37.310488
+61_B,t3_2qr8gn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:37.855126
+61_B,t1_cn9b5po_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:38.406867
+61_B,t1_cn9b5po_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:39.059779
+61_B,t1_cn9b5po_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:39.614085
+61_B,t1_cn9b5po_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:40.174491
+61_B,t1_cn9b5po_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:40.731521
+61_B,t1_cn9b5po_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:41.265647
+61_B,t1_cn9b5po_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:41.826208
+61_B,t1_cn9b5po_8,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:42.380112
+61_B,t1_cn9j8n8,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:42.949113
+835_A,t3_2bo66v,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:53:46.405194
+835_A,t1_cj7geua_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:44.038927
+835_A,t1_cj7geua_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:44.937115
+1278_B,t3_24c5qv,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:53:47.965445
+1278_B,t1_ch5oa5w,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,amy,done,2024-02-16 11:30:46.143726
+1278_B,t1_ch5og13_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:46.716670
+1778_A,t3_1v2buu,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:53:49.454711
+1778_A,t1_ceo0vsq,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:47.807907
+1778_A,t1_ceo1051,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:58.478919
+1811_B,t3_1udlql,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:54:01.104824
+1811_B,t1_ceh07bk_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:30:59.658546
+1811_B,t1_ceh07bk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:31:00.219546
+1811_B,t1_ceh0b84_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:31:00.778974
+1811_B,t1_ceh0b84_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:31:01.324077
+3057_A,t3_30oi71,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 10:54:04.035763
+3057_A,t1_cpuh9jr_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:31:02.401456
+3057_A,t1_cpuh9jr_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:31:02.954668
+3057_A,t1_cpuh9jr_3,No - Indirect Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,amy,done,2024-02-16 11:31:03.731340
+cys9xnl,cys9xnl,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:18.127644
+cys9xnl,cysac2e_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:18.820184
+cys9xnl,cysac2e_2,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:19.482023
+cys9xnl,cyshwie_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:20.531541
+cys9xnl,cysj01x,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:21.349512
+cys9xnl,cysj8t8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:22.038558
+cys9xnl,cysk2vc,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:32.787551
+cys9xnl,cyslbuz,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:33.456906
+cys9xnl,cyslw2z_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:34.087580
+cys9xnl,cyslw2z_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:34.714691
+cys9xnl,cysm6pl_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:35.561888
+cys9xnl,cysm6pl_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:36.211928
+d164d22,d164d22,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:36.918813
+d164d22,d164s76,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:37.710555
+d164d22,d165mtu_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:38.571873
+d164d22,d165mtu_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:39.246610
+d164d22,d16ag4s,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:39.917585
+d164d22,d16akdb,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:40.608416
+d164d22,d16at8t,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:41.307527
+d4hcjto,d4hcjto,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:41.979179
+d4hcjto,d4hcl84,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:42.602428
+d4hcjto,d4hcn8a,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:43.213577
+d4hcjto,d4hcon6_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:44.086772
+d4hcjto,d4hcon6_2,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:44.669971
+d4hcjto,d4hcvk6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:45.322518
+d4hcjto,d4hd9kk_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:45.991915
+d4hcjto,d4hd9kk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:56.654925
+d4hcjto,d4hdz6j,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:57.281226
+d4hcjto,d4he2iq,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:57.941891
+dzgz6m2,dzgz6m2_1,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:58.622154
+dzgz6m2,dzgz6m2_2,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:21:59.269483
+dzgz6m2,dzh0psx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:21:59.992088
+dzgz6m2,dzh0psx_2,Neutral - Content contains no opinion,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:00.623870
+dzgz6m2,dzh0xpe,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:01.220550
+e6ciwm3,e6ciwm3_1,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:01.842131
+e6ciwm3,e6ciwm3_2,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:02.491308
+e6ciwm3,e6ciwm3_3,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:03.096344
+e6ciwm3,e6ciwm3_4,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:03.721749
+e6ciwm3,e6cjudx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:04.362121
+e6ciwm3,e6cjudx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:04.993983
+e6ciwm3,e6clcvs_1,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:05.802587
+e6ciwm3,e6clcvs_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:06.496650
+e6ciwm3,e6clcvs_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:07.153523
+e6ciwm3,e6clcvs_4,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:07.768649
+e6ciwm3,e6clcvs_5,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:08.430056
+e6ciwm3,e6csi4d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:09.044741
+e6ciwm3,e6ctqqw_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:19.692761
+e6ciwm3,e6ctqqw_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:20.297720
+e6ciwm3,e6ctqqw_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:20.900788
+e6ciwm3,e6ctqqw_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:21.529434
+e6ciwm3,e6ctqqw_5,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:22.148793
+e6ciwm3,e6ctqqw_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:22.723043
+e6ciwm3,e6d3cso_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:23.301427
+e6ciwm3,e6d3cso_2,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:23.951542
+e6ciwm3,e6d3cso_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:24.552924
+e6ciwm3,e6d3cso_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:25.166316
+e6ciwm3,e6d3cso_5,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:25.762705
+e6ciwm3,e6d3v4s_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:26.334791
+e6ciwm3,e6d3v4s_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:26.923020
+e6ciwm3,e6d3v4s_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:27.555365
+e6ciwm3,e6d4v67_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:28.291035
+e6ciwm3,e6d4v67_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:28.885182
+e6ciwm3,e6d4v67_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:29.476176
+e6ciwm3,e6d4v67_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:30.070056
+e6ciwm3,e6d4v67_5,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:30.698739
+e6ciwm3,e6d4v67_6,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:31.311281
+e6ciwm3,e6d4v67_7,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:42.097895
+e6ciwm3,e6d5ndb,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:42.694915
+e6ciwm3,e6d644s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:43.309809
+e6ciwm3,e6d69zl_1,Neutral - Content contains no opinion,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:43.902451
+e6ciwm3,e6d69zl_2,Neutral - Content contains no opinion,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:44.506992
+e6ciwm3,e6d6hj8_1,Neutral - Content contains no opinion,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:45.137799
+e6ciwm3,e6d6hj8_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:45.726147
+e6ciwm3,e6d6hj8_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:46.296983
+dbrj3ub,dbrj3ub_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:46.997052
+dbrj3ub,dbrj3ub_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:47.630792
+dbrj3ub,dbrj3ub_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:48.256822
+dbrj3ub,dbrj3ub_4,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:48.931692
+dbrj3ub,dbrlkqg,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:49.539574
+dbrj3ub,dbrlwus_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:50.342581
+dbrj3ub,dbrlwus_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:50.968795
+dbrj3ub,dbrm6zn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:51.572079
+dbrj3ub,dbrmdcs,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:52.225584
+dbrj3ub,dbrmue8_1,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:22:53.085747
+dbrj3ub,dbrmue8_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:53.713298
+de92e7n,de92e7n,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:22:54.354565
+de92e7n,de9sp4o,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:05.075451
+de92e7n,de9wr2x_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:05.887091
+de92e7n,de9wr2x_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:06.661671
+d5q07u2,d5q07u2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:07.382360
+d5q07u2,d5q0fkh,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:08.027773
+d5q07u2,d5q0wdg,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:08.622314
+d5q07u2,d5q3eh6,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:09.311758
+d85vi9n,d85vi9n_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:09.900531
+d85vi9n,d85vi9n_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:10.630321
+d85vi9n,d85vi9n_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:11.698230
+d85vi9n,d85vi9n_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:12.315520
+d85vi9n,d85vi9n_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:12.937659
+d85vi9n,d85vi9n_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:13.591093
+d85vi9n,d85xpyt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:14.289022
+d85vi9n,d85xpyt_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:15.124958
+d85vi9n,d85xpyt_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:15.741300
+d85vi9n,d85y4rt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:16.375397
+d85vi9n,d85y4rt_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:16.992237
+d85vi9n,d85z3im_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:17.608568
+d85vi9n,d85z3im_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:18.436252
+d85vi9n,d85zj9e_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:29.055284
+d85vi9n,d85zj9e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:29.686070
+d85vi9n,d85zj9e_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:30.427975
+d85vi9n,d860jzy_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:31.063789
+d85vi9n,d860jzy_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:31.759656
+d85vi9n,d860jzy_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:32.347582
+d85vi9n,d860jzy_4,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:33.117861
+d85vi9n,d864huv_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:33.695742
+d85vi9n,d864huv_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:34.288755
+d85vi9n,d864huv_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:34.864106
+d85vi9n,d86bqrm_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:35.497867
+d85vi9n,d86bqrm_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:36.100072
+d85vi9n,d86bzje_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:37.093701
+d85vi9n,d86bzje_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:37.688670
+d85vi9n,d86cm12_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:38.322555
+d85vi9n,d86cm12_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:38.935804
+d85vi9n,d86cm12_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:39.510717
+d85vi9n,d86dx8t_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:40.385634
+d85vi9n,d86dx8t_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:40.955674
+d85vi9n,d86dx8t_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:41.533686
+d85vi9n,d86dx8t_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:52.320827
+d85vi9n,d86dx8t_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:23:52.919040
+61_B,t3_2qr8gn,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:53.526769
+61_B,t1_cn9b5po_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:54.125699
+61_B,t1_cn9b5po_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:54.728717
+61_B,t1_cn9b5po_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:55.373179
+61_B,t1_cn9b5po_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:55.998716
+61_B,t1_cn9b5po_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:56.645796
+61_B,t1_cn9b5po_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:57.266328
+61_B,t1_cn9b5po_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:57.900415
+61_B,t1_cn9b5po_8,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:58.620509
+61_B,t1_cn9j8n8,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:59.219652
+835_A,t3_2bo66v,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:23:59.836733
+835_A,t1_cj7geua_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:00.497162
+835_A,t1_cj7geua_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:01.093191
+1278_B,t3_24c5qv,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:01.743621
+1278_B,t1_ch5oa5w,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:24:02.388160
+1278_B,t1_ch5og13_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:03.201772
+1778_A,t3_1v2buu,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:03.788936
+1778_A,t1_ceo0vsq,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:04.430677
+1778_A,t1_ceo1051,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,nikhil,done,2024-02-16 11:24:15.139952
+1811_B,t3_1udlql,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:15.755858
+1811_B,t1_ceh07bk_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:16.364766
+1811_B,t1_ceh07bk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:16.951352
+1811_B,t1_ceh0b84_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:17.634275
+1811_B,t1_ceh0b84_2,Neutral - Content contains no opinion,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:18.289680
+3057_A,t3_30oi71,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:18.916561
+3057_A,t1_cpuh9jr_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:19.511352
+3057_A,t1_cpuh9jr_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:20.112345
+3057_A,t1_cpuh9jr_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,nikhil,done,2024-02-16 11:24:21.025729
+cys9xnl,cys9xnl,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:55.855651
+cys9xnl,cysac2e_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:56.427026
+cys9xnl,cysac2e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:24:57.072275
+cys9xnl,cyshwie_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:57.682245
+cys9xnl,cysj01x,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:58.252928
+cys9xnl,cysj8t8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:24:58.856713
+cys9xnl,cysk2vc,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:09.468187
+cys9xnl,cyslbuz,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:10.076766
+cys9xnl,cyslw2z_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:10.652434
+cys9xnl,cyslw2z_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:11.381255
+cys9xnl,cysm6pl_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:11.945099
+cys9xnl,cysm6pl_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:12.622336
+d164d22,d164d22,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:13.170032
+d164d22,d164s76,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:13.824994
+d164d22,d165mtu_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:14.497441
+d164d22,d165mtu_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:15.213726
+d164d22,d16ag4s,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:15.800496
+d164d22,d16akdb,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:16.564716
+d164d22,d16at8t,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:17.210224
+d4hcjto,d4hcjto,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:17.830192
+d4hcjto,d4hcl84,Yes - Direct Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:18.607508
+d4hcjto,d4hcn8a,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:19.167590
+d4hcjto,d4hcon6_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:19.743947
+d4hcjto,d4hcon6_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:20.347495
+d4hcjto,d4hcvk6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:20.915806
+d4hcjto,d4hd9kk_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:21.487874
+d4hcjto,d4hd9kk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:32.136650
+d4hcjto,d4hdz6j,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:32.827943
+d4hcjto,d4he2iq,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:33.393660
+dzgz6m2,dzgz6m2_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:33.911849
+dzgz6m2,dzgz6m2_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:34.517412
+dzgz6m2,dzh0psx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:35.048525
+dzgz6m2,dzh0psx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:35.604750
+dzgz6m2,dzh0xpe,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:36.254232
+e6ciwm3,e6ciwm3_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:36.847726
+e6ciwm3,e6ciwm3_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:37.385192
+e6ciwm3,e6ciwm3_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:37.990049
+e6ciwm3,e6ciwm3_4,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:38.562013
+e6ciwm3,e6cjudx_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:39.145378
+e6ciwm3,e6cjudx_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:39.740792
+e6ciwm3,e6clcvs_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:40.432577
+e6ciwm3,e6clcvs_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:41.056107
+e6ciwm3,e6clcvs_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:41.651110
+e6ciwm3,e6clcvs_4,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:42.492799
+e6ciwm3,e6clcvs_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:43.081310
+e6ciwm3,e6csi4d,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:25:43.808894
+e6ciwm3,e6ctqqw_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:54.662720
+e6ciwm3,e6ctqqw_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:55.292265
+e6ciwm3,e6ctqqw_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:55.860482
+e6ciwm3,e6ctqqw_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:56.615655
+e6ciwm3,e6ctqqw_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:57.238705
+e6ciwm3,e6ctqqw_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:57.890178
+e6ciwm3,e6d3cso_1,No - Indirect Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:58.438392
+e6ciwm3,e6d3cso_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:58.992883
+e6ciwm3,e6d3cso_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:25:59.570001
+e6ciwm3,e6d3cso_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:00.102995
+e6ciwm3,e6d3cso_5,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:00.712044
+e6ciwm3,e6d3v4s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:01.312165
+e6ciwm3,e6d3v4s_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:01.844837
+e6ciwm3,e6d3v4s_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:02.397442
+e6ciwm3,e6d4v67_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:02.955980
+e6ciwm3,e6d4v67_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:03.712945
+e6ciwm3,e6d4v67_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:04.260085
+e6ciwm3,e6d4v67_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:04.861733
+e6ciwm3,e6d4v67_5,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:05.421507
+e6ciwm3,e6d4v67_6,No - Indirect Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:06.119636
+e6ciwm3,e6d4v67_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:16.714487
+e6ciwm3,e6d5ndb,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:17.276717
+e6ciwm3,e6d644s_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:17.861449
+e6ciwm3,e6d69zl_1,No - Indirect Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:18.405261
+e6ciwm3,e6d69zl_2,No - Indirect Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:19.038915
+e6ciwm3,e6d6hj8_1,No - Indirect Content,No - Indirect Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:19.706334
+e6ciwm3,e6d6hj8_2,No - Indirect Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:20.276009
+e6ciwm3,e6d6hj8_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:21.009020
+dbrj3ub,dbrj3ub_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:21.665622
+dbrj3ub,dbrj3ub_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:22.603344
+dbrj3ub,dbrj3ub_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:23.263713
+dbrj3ub,dbrj3ub_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:24.609315
+dbrj3ub,dbrlkqg,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:25.980559
+dbrj3ub,dbrlwus_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:27.184789
+dbrj3ub,dbrlwus_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:27.787983
+dbrj3ub,dbrm6zn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:28.452726
+dbrj3ub,dbrmdcs,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:29.104932
+dbrj3ub,dbrmue8_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:29.660092
+dbrj3ub,dbrmue8_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:30.203791
+de92e7n,de92e7n,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:30.737779
+de92e7n,de9sp4o,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:41.327226
+de92e7n,de9wr2x_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:41.871133
+de92e7n,de9wr2x_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:42.446103
+d5q07u2,d5q07u2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:43.083163
+d5q07u2,d5q0fkh,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:43.688977
+d5q07u2,d5q0wdg,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:44.256166
+d5q07u2,d5q3eh6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:44.836015
+d85vi9n,d85vi9n_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:45.415113
+d85vi9n,d85vi9n_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:46.007405
+d85vi9n,d85vi9n_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:46.774242
+d85vi9n,d85vi9n_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:47.445356
+d85vi9n,d85vi9n_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:48.053540
+d85vi9n,d85vi9n_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:48.605088
+d85vi9n,d85xpyt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:49.229394
+d85vi9n,d85xpyt_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:49.785437
+d85vi9n,d85xpyt_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:50.388256
+d85vi9n,d85y4rt_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:26:50.948669
+d85vi9n,d85y4rt_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:51.520240
+d85vi9n,d85z3im_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:52.109436
+d85vi9n,d85z3im_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:26:52.632875
+d85vi9n,d85zj9e_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:03.468837
+d85vi9n,d85zj9e_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:04.130918
+d85vi9n,d85zj9e_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:04.749243
+d85vi9n,d860jzy_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:05.388781
+d85vi9n,d860jzy_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:05.992670
+d85vi9n,d860jzy_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:06.606502
+d85vi9n,d860jzy_4,Neutral - Content contains no opinion,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:07.183445
+d85vi9n,d864huv_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:07.772085
+d85vi9n,d864huv_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:08.351740
+d85vi9n,d864huv_3,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:09.091267
+d85vi9n,d86bqrm_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:09.795516
+d85vi9n,d86bqrm_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:10.377582
+d85vi9n,d86bzje_1,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:10.943749
+d85vi9n,d86bzje_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:11.479064
+d85vi9n,d86cm12_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:12.028355
+d85vi9n,d86cm12_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:12.609059
+d85vi9n,d86cm12_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:13.204664
+d85vi9n,d86dx8t_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:13.852778
+d85vi9n,d86dx8t_2,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:14.387599
+d85vi9n,d86dx8t_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:14.961909
+d85vi9n,d86dx8t_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:25.530542
+d85vi9n,d86dx8t_5,Yes - Direct Content,No - Indirect Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:26.076214
+61_B,t3_2qr8gn,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:26.633586
+61_B,t1_cn9b5po_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:27.181148
+61_B,t1_cn9b5po_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:27.760654
+61_B,t1_cn9b5po_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:28.314301
+61_B,t1_cn9b5po_4,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:28.877907
+61_B,t1_cn9b5po_5,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:29.578290
+61_B,t1_cn9b5po_6,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:30.158743
+61_B,t1_cn9b5po_7,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:30.842970
+61_B,t1_cn9b5po_8,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:31.421121
+61_B,t1_cn9j8n8,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:32.102238
+835_A,t3_2bo66v,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:32.676244
+835_A,t1_cj7geua_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:33.485346
+835_A,t1_cj7geua_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:34.091093
+1278_B,t3_24c5qv,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:34.710072
+1278_B,t1_ch5oa5w,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:35.315175
+1278_B,t1_ch5og13_1,Neutral - Content contains no opinion,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:35.994815
+1778_A,t3_1v2buu,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 10:53:49.454711
+1778_A,t1_ceo0vsq,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:37.245221
+1778_A,t1_ceo1051,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:47.945926
+1811_B,t3_1udlql,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:48.531168
+1811_B,t1_ceh07bk_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:49.103616
+1811_B,t1_ceh07bk_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:49.713608
+1811_B,t1_ceh0b84_1,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:50.254151
+1811_B,t1_ceh0b84_2,Yes - Direct Content,Yes - Direct Expression,No - Content does not oppose anyone,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:50.837643
+3057_A,t3_30oi71,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:51.446515
+3057_A,t1_cpuh9jr_1,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:51.998070
+3057_A,t1_cpuh9jr_2,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,No - Expression is not emotional/forceful,helena,done,2024-02-16 11:27:52.606522
+3057_A,t1_cpuh9jr_3,Yes - Direct Content,Yes - Direct Expression,Yes - Content opposes someone else,Yes - Expression is emotional/forceful,helena,done,2024-02-16 11:27:53.179069

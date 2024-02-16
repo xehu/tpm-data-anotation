@@ -69,6 +69,9 @@ def next_available_row(worksheet, colnum=8):
 
 
 def get_disagreed_messages(questions_answers_table):
+
+	print(questions_answers_table)
+
 	disagreed_indices = np.where(np.all(questions_answers_table != 3, axis=1))[0]
 
 	print(disagreed_indices)
@@ -79,8 +82,8 @@ def get_disagreed_messages(questions_answers_table):
 		ID_COL = "B"
 		TEXT_COL = "D"
 
-		disag_id = sh.acell(ID_COL + str(index + 2)).value  # + 2 because there are 2 header rows
-		disag_text = sh.acell(TEXT_COL + str(index + 2)).value
+		disag_id = sh.acell(ID_COL + str(index + 3)).value  # + 3 because there are 2 header rows, plus zero indexing
+		disag_text = sh.acell(TEXT_COL + str(index + 3)).value
 
 		disagreed_messages[disag_id] = disag_text
 	

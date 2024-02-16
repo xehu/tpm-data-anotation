@@ -204,21 +204,21 @@ def update(rater_id):
 		rating_OI_expression = sh.acell(oi_expression_cell).value
 		# check whether they were rated or not
 		if(rating_directness_content is not None):
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_directness_content'] = rating_directness_content
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'rating_directness_content'] = rating_directness_content
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'last_updated_time'] = pd.Timestamp.now()
 		if(rating_directness_expression is not None):
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_directness_expression'] = rating_directness_expression
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'rating_directness_expression'] = rating_directness_expression
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'last_updated_time'] = pd.Timestamp.now()
 		if(rating_OI_content is not None):
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_OI_content'] = rating_OI_content
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'rating_OI_content'] = rating_OI_content
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'last_updated_time'] = pd.Timestamp.now()
 		if (rating_OI_expression is not None):
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'rating_OI_expression'] = rating_OI_expression
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'rating_OI_expression'] = rating_OI_expression
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'last_updated_time'] = pd.Timestamp.now()
 		# if ratings are complete, mark status as "done"
 		if(rating_directness_content is not None and rating_directness_expression is not None and rating_OI_content is not None and rating_OI_expression is not None):
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'status'] = "done"
-			LABEL_LOG.loc[LABEL_LOG['id'] == id_num, 'last_updated_time'] = pd.Timestamp.now()
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'status'] = "done"
+			LABEL_LOG.loc[(LABEL_LOG['id'] == id_num) & (LABEL_LOG['rater_id'] == rater_id), 'last_updated_time'] = pd.Timestamp.now()
 
 		if(i > 0 and i % 10 == 0):
 			print(str(i) + " requests completed...")
