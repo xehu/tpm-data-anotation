@@ -86,6 +86,11 @@ def get_disagreed_messages(questions_answers_table):
 		disag_text = sh.acell(TEXT_COL + str(index + 3)).value
 
 		disagreed_messages[disag_id] = disag_text
+
+		if(index > 0 and index % 10 == 0):
+			print(str(index) + " requests completed...")
+			if(index%20 == 0):
+				time.sleep(10)
 	
 	disagreed_messages_df = pd.DataFrame(list(disagreed_messages.items()), columns=['id', 'text'])
 	return(disagreed_messages_df)
